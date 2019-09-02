@@ -1,3 +1,3 @@
-# Lineamientos web UCAB
+# Lineamientos gráficos UCAB
 
-Repositorio oficial con los lineamientos web definidos por la UCAB
+Repositorio oficial con los lineamientos gráficos definidos por la UCAB

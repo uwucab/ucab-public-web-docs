@@ -1,1 +1,1 @@
-Documentación oficial con los lineamientos web definidos por la UCAB
+Documentación oficial con los lineamientos gráficos definidos por la UCAB
