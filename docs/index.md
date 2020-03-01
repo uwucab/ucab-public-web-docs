@@ -51,6 +51,16 @@ Bloque de código
 Posee varias líneas
 ```
 
+## Bloques de cita
+
+> Bloque de cita de una línea
+
+> Bloque de citas de múltiples líneas
+>
+> Segunda línea
+>
+> Tercera línea
+
 ## Tablas
 
 | Color                                                    | Hex       | Desc        |
