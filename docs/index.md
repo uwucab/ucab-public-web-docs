@@ -39,3 +39,13 @@
   - **Robiana**
  **Correo Electrónico:** @ucab.edu.ve 
  **Extensión:** xxxx 
+ 
+ ## 2. ¿ A quién va dirigido? 
+
+El presente material pretende atender las necesidades informativas de los interesados y colaboradores que deseen iniciar y mantener sus respectivos sitios web dentro de la UCAB. Este target está compuesto por: 
+
+- Dependencias que integran la UCAB.
+- Desarrolladores Web
+- Diseñadores gráficos y web. 
+
+**_Ante cualquier duda, sugerencia o solicitud, contacte a los miembros del equipo de la Unidad Web._**
