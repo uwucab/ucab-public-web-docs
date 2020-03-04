@@ -213,4 +213,27 @@ en los sitios que comprenden esta jerarquía.
      - **Tonalidades claras:** Versión en negro.
      - **Tonalidades oscuras:** Logo en su versión en blanco. 
 
-**_NOTA: Toda aplicación de logotipo será aprobada, autorizada, y supervisada estrictamente por la Unidad Web. Cualquier cambio deberá ser consultado antes de ser ejecutado._**
+**_NOTA: Toda aplicación de logotipo será aprobada, autorizada, y supervisada estrictamente por la Unidad Web. Cualquier cambio deberá ser consultado antes de ser ejecutado._** 
+
+
+## 7. Colores UCAB (Uso de la Paleta 2020 y Sistema de Marcas)
+
+**Consideraciones iniciales** 
+
+- La implementación de los colores UCAB es transversal para todos los sitios web de la universidad indistintamente de la jerarquía a la que pertenezca.
+- Los colores serán designados única y exclusivamente por la Unidad Web. Cualquier sugerencia deberá ser previamente consultada.
+- Todos los colores se encuentran configurados en el Tema UCAB de tal manera que los desarrolladores puedan ubicarlos con facilidad. Ante cualquier duda, consultar con el equipo de la Unidad Web. 
+ 
+Con relación a los colores implementados dentro del Proyecto Web UCAB, estos se dividen en tres categorías fundamentales, las cuales se explicarán a continuación:
+
+**7.1. Paleta UCAB (principal):**
+
+Está compuesta por los colores principales de la identidad gráfica de la UCAB, es decir, las colmenas.
+
+**CÓDIGO HEXADECIMAL**
+
+| Color                                                    | Hex       | Desc        |
+| -------------------------------------------------------- | --------- | ----------- |
+| ![#ffc526](https://placehold.it/15/ffc526/000000?text=+) | `#ffc526` | Amarillo color principal UCAB |
+| ![#40b4e5](https://placehold.it/15/40b4e5/000000?text=+) | `#40b4e5` | Azul color principal UCAB     |
+| ![#047732](https://placehold.it/15/047732/000000?text=+) | `#047732` | Verde color principal UCAB    |
