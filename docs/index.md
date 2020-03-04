@@ -75,3 +75,47 @@ En aras de brindar una organización estructurada a las páginas web de la UCAB 
     **Site de UCAB Virtual:**  https://ucabvirtual.ucab.edu.ve/ 
 
 **_Ante cualquier duda, sugerencia o solicitud, contacte a los miembros del equipo de la Unidad Web._** 
+
+## 5. Jerarquía de sitios Web. 
+
+Dentro del Proyecto Web UCAB, los sitios se conciben bajo un mismo esquema a nivel de estructura, la cual permite organizar de la mejor forma posible los contenidos destinados a las mismas. Esta se organiza de la siguiente manera:
+
+**5.1 Cabecera o _header_:**
+
+Zona que identifica un sitio en específico. En esta área se encuentran contenidos:
+  - Identidad gráfica de la página (logotipo)
+  - Menú principal o institucional.
+  - Menú de facetas
+  - Buscador 
+  
+Como normativa fundamental, los sitios de segundo nivel deberán mantener, previo al menú principal, el espacio del logotipo en blanco. Con relación al menú principal, el color se adecuará a los parámetros dictaminados por la Unidad Web. Para los sitios de tercer nivel, se mantiene la libertad de ajustarlo de acuerdo a las necesidades de los principales interesados previa aprobación de la Unidad Web. 
+
+ **5.2 Pie de página o _Footer_:**
+
+Espacio donde se encuentran contenidos enlaces de interés que permitan al usuario final redirigir a donde desee, alineados siempre a la arquitectura de información del sitio. Los sitios de segundo nivel deben mantener el estilo gráfico del pie de página del sitio web institucional, mientras que los de tercer nivel cuentan con la libertad de modificarlo previo acuerdo y aprobación de la Unidad Web.
+
+Como normativa imperante tanto para la cabecera como el pie de página, el link de redirección a la UCAB debe colocarse de forma obligatoria en los sitios de segundo y tercer nivel, siempre y cuando estos no dispongan de la identidad gráfica de la universidad (logotipo). 
+
+ **5.3 _Layouts_:** 
+
+Dentro del tema UCAB, se disponen de dos tipos de _layouts_ fundamentales:
+
+   **5.3.1 _Layout_ de Ancho Completo:** Diseño que busca ocupar la totalidad del navegador. Como característica fundamental, este puede incorporar el uso de imágenes que mantengan las mismas dimensiones en ancho. Este esquema es aplicable para los tres niveles de sitios web. 
+  
+  **5.3.2 _Layout_ de barra lateral izquierda o _sidebar_:** Este diseño se compone de dos secciones principales. La primera, situada a la izquierda, contiene el menú de navegación con el mapa del sitio (opciones más específicas para un usuario que lleva un recorrido más largo al visitar las páginas). La sección de la derecha, ocupa el contenido de la página a ser visualizada. Asimismo, este layout contempla el uso de _breadcums_ (migajas de pan) los cuales se ubican del lado izquierdo, justo por encima del menú lateral. Estos cumplen la función de ser guía para los usuarios durante su recorrido y la capacidad de que puedan volver a secciones específicas de la manera más expedita posible. Este esquema es aplicable para los tres niveles de sitios web.
+  
+  **5.4 Menús** 
+  
+  Dentro del esquema web UCAB, se contempla el uso de cuatro menús en específico:
+  
+**5.4.1 Menú principal:** Contiene las opciones que se visualizan en la cabecera del sitio. Este debe ser consultado y aprobado por la Unidad Web.
+
+**5.4.2 Menú de facetas:** Ubicado en la parte superior derecha de la cabecera de la página, alberga las opciones cuyas funciones son más específicas con relación al contenido del sitio. De acuerdo a la naturaleza de las páginas, las facetas pueden fungir como filtro para especificar el tipo de usuario y la información que requieren consultar (página web institucional y Marcas UCAB), o como opciones complementarias para nutrir el árbol de navegación. En ambos casos, estas deben ser discutidas y aprobadas por la Unidad Web.
+
+**5.4.3 Menú Institucional:** Opciones que sólo son visibles al activar el buscador. Funge como ayuda al usuario para que, al estar dentro de la sección anteriormente mencionada, este pueda tener la capacidad de visualizar el menú de la página web UCAB sin necesidad de abandonar el sitio que se está visitando. 
+
+**5.4.4 Menú de pie de página o _footer_:** Contiene las opciones destinadas para el pie de página y los íconos de redes sociales (Facebook, Twitter e Instagram solamente). Estas deben ser discutidas y aprobadas por la Unidad Web.
+
+**5.5 Buscador:** 
+
+Es el componente encargado de realizar una búsqueda de páginas o entradas a través del sitio en el que se encuentre el usuario por medio de una o varias palabras claves ofreciendo, posteriormente, un resultado para las coincidencias encontradas o un mensaje de alerta que indica que no ha habido coincidencias (en caso de que no exista alguna)
