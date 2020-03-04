@@ -76,11 +76,11 @@ En aras de brindar una organización estructurada a las páginas web de la UCAB 
 
 **_Ante cualquier duda, sugerencia o solicitud, contacte a los miembros del equipo de la Unidad Web._** 
 
-## 5. Jerarquía de sitios Web. 
+## 5. Estructura. 
 
 Dentro del Proyecto Web UCAB, los sitios se conciben bajo un mismo esquema a nivel de estructura, la cual permite organizar de la mejor forma posible los contenidos destinados a las mismas. Esta se organiza de la siguiente manera:
 
-**5.1 Cabecera o _header_:**
+ **5.1 Cabecera o _header_:**
 
 Zona que identifica un sitio en específico. En esta área se encuentran contenidos:
   - Identidad gráfica de la página (logotipo)
@@ -119,3 +119,98 @@ Dentro del tema UCAB, se disponen de dos tipos de _layouts_ fundamentales:
 **5.5 Buscador:** 
 
 Es el componente encargado de realizar una búsqueda de páginas o entradas a través del sitio en el que se encuentre el usuario por medio de una o varias palabras claves ofreciendo, posteriormente, un resultado para las coincidencias encontradas o un mensaje de alerta que indica que no ha habido coincidencias (en caso de que no exista alguna)
+
+## 6. Logotipo (normativas de uso y comportamiento dentro del tema UCAB)
+
+ **6.1 Consideraciones Iniciales:** 
+-  Para los sitios de segundo y tercer nivel deberá disponerse de una versión completa y
+una versión simplificada de la identidad a ser colocada dentro de los sitios web.
+
+- Todos los sitios, sin distinción en su jerarquía, deberán hacer uso obligatorio de las identidades en formato SVG, ya que es necesario que el logo escale sin importar el
+dispositivo desde el que se está observando el sitio. Se restringe el uso de logos en
+formato PNG y JPG, puesto que pueden generarse fallas y distorsionar la calidad de los
+mismos. 
+
+- La única identidad válida a ser colocada dentro de las páginas web serán las colmenas
+UCAB. Se restringe el uso del escudo puesto que su uso está reservado exclusivamente
+para documentos oficiales de la universidad.
+
+ **6.2 Formatos permitidos del logo UCAB dentro de las páginas web:** 
+ 
+  **6.2.1: Versiones permitidas en la web:** En cuanto a los formatos válidos para el uso web de la identidad del logo UCAB, estos corresponden a las siguientes versiones:
+
+- **Versión Completa:**
+
+- **Versión Simplificada:** 
+
+ **6.2.2 Colores permitidos para el uso de los logos dentro de la web:**
+ 
+ - **Versión a color:**
+ 
+ - **Versión en blanco:**
+ 
+ - **Versión en negro:**
+ 
+ - **Versión en escala de grises:**
+ 
+**6.2.3 Versiones restringidas en la web:** 
+ 
+  - **Cuadradas:**
+ 
+ - **Distorsionadas o pixeladas:**
+ 
+ - **En color que no sea UCAB:**
+ 
+ - **Logos con bordes:**
+ 
+-  **Versiones desactualizadas:** 
+
+
+**6.3 Comportamiento del logotipo simplificado al recorrer la página hacia abajo
+(_scrolldown_)** 
+
+Tanto en el sitio web institucional como en la jerarquía de segundo nivel, cuando el
+usuario comienza hacer un recorrido descendente en la página, el menú quedará estático
+en la parte superior del navegador. Las opciones se ajustarán del lado derecho,
+mientras que la identidad dispuesta en el sitio bajará y se colocará del lado izquierdo en su versión simplificada. El color permitido para la identidad este caso particular será el blanco. La versión completa del logo queda restringida en este espacio.
+
+**6.4 Normas para la disposición de logos de acuerdo a la jerarquía de sitios:** 
+
+**6.4.1 Sitios de Segundo Nivel:** 
+
+- **Ubicación:** Cabecera de la página. Área central
+- **Tamaño del contenedor:** Debe mantener una proporción de 245 x 35 píxeles.
+- **Versión permitida:** Versión a color. La cabecera mantendrá el color blanco de fondo.
+
+
+**6.4.2 Versión para el menú en _scrolldown_:** 
+
+- **Ubicación:** Lado izquierdo del menú principal.
+- **Tamaño del contenedor:** Proporción de 102 x36 píxeles.
+- **Versión permitida:** Versión simplificada en color blanco.
+**_Se restringe el uso de logotipos en el footer en los sitios de segundo nivel._**
+
+**6.4.3 Normas para la disposición de logos en sitios de tercer nivel:**
+
+_Nota: Es importante recordar que los sitios de tercer nivel poseen la capacidad de
+tener libertad en cuanto a línea gráfica._
+
+A continuación, se ofrecen una serie de recomendaciones para la aplicación de identidades
+en los sitios que comprenden esta jerarquía.
+
+- **Cabecera:**
+
+  - **Ubicación:** De acuerdo a las necesidades del sitio.
+  - **Versión del logotipo de acuerdo al color de la cabecera:**
+     - **Fondo blanco o en tonalidades claras:** Logo en versión a Color o versión en negro.
+     - **Fondos oscuros:** Logo en su versión en blanco.
+     
+
+- **Pie de página (_footer_):**
+
+  - Logo UCAB en versión simplificada (uso obligatorio)
+  - Color de la identidad UCAB permitida de acuerdo al color de fondo del pie de página:
+     - **Tonalidades claras:** Versión en negro.
+     - **Tonalidades oscuras:** Logo en su versión en blanco. 
+
+**_NOTA: Toda aplicación de logotipo será aprobada, autorizada, y supervisada estrictamente por la Unidad Web. Cualquier cambio deberá ser consultado antes de ser ejecutado._**
