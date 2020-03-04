@@ -49,3 +49,30 @@ El presente material pretende atender las necesidades informativas de los intere
 - Diseñadores gráficos y web. 
 
 **_Ante cualquier duda, sugerencia o solicitud, contacte a los miembros del equipo de la Unidad Web._**
+
+## 3.   Protocolo de solicitud sitios web
+Por especificar. 
+
+## 4. Jerarquía de sitios Web. 
+
+En aras de brindar una organización estructurada a las páginas web de la UCAB de acuerdo a su línea gráfica y contenido, se dispone de una jerarquía de sitios definida por tres niveles fundamentales. A continuación, se explican cada uno de ellos:
+
+- **Sitios de primer nivel:** Alberga la página institucional http://www.ucab.edu.ve . Este es el referente principal de línea gráfica y de contenido para los demás sitios que integran la UCAB en sus plataformas digitales. 
+
+- **Sitios de segundo nivel:** Este grupo lo componen las dependencias académicas y administrativas de la universidad. Estas deberán apegarse a la línea gráfica de la página web institucional y sólo cambiarán en el color principal, el cual será debidamente asignado por el equipo de la Unidad Web.
+
+  - **Ejemplos de sitios de segundo nivel:** 
+  **Site de Talento UCAB:** https://talento.ucab.edu.ve/
+  **Site del Secretariado de Internacionalización UCAB:** https://internacionalizacion.ucab.edu.ve/
+  **Sitios que componen el Sistema de Marcas UCAB, mencionando como ejemplo el Site de Negocios UCAB:** https://negocios.ucab.edu.ve/ 
+
+
+
+
+- **Sitios de tercer nivel:** Comprende los sitos que no son dependencias académicas y administrativas, pero que funcionan dentro de la universidad o forman parte de la familia UCAB. A diferencia de los sitios de segundo nivel, estos no siguen de forma estricta la línea gráfica de la página web institucional, pero deberán utilizar de forma obligatoria elementos que son transversales para toda la plataforma digital de la universidad: colores de la Paleta 2020, y tipografías. 
+
+  - **Ejemplos de sitios de tercer nivel:** 
+    **Site de Consultors UCAB:** https://consultores.ucab.edu.ve/
+    **Site de UCAB Virtual:**  https://ucabvirtual.ucab.edu.ve/ 
+
+**_Ante cualquier duda, sugerencia o solicitud, contacte a los miembros del equipo de la Unidad Web._** 
