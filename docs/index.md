@@ -256,4 +256,27 @@ Comprenden tonalidades que provienen del análisis de color realizado sobre la p
 | ![#50237F](https://placehold.it/15/50237F/000000?text=+) | `#50237F` | Verde color principal UCAB    |
 | ![#C4151C](https://placehold.it/15/C4151C/000000?text=+) | `#C4151C` | Verde color principal UCAB    |
 | ![#922884](https://placehold.it/15/922884/000000?text=+) | `#922884` | Verde color principal UCAB    |
-| ![#FEC10D](https://placehold.it/15/FEC10D/000000?text=+) | `#FEC10D` | Verde color principal UCAB    |
+| ![#FEC10D](https://placehold.it/15/FEC10D/000000?text=+) | `#FEC10D` | Verde color principal UCAB    | 
+
+
+**7.3 Paleta Sistema de Marcas UCAB:**
+
+En aras de brindar identidad a las distintas marcas que agrupan el Sistema de Marcas UCAB, la Unidad Web en conjunto con la Dirección de Mercadeo Institucional designaron los siguientes colores para cada una de ellas.
+
+_NOTA: Ante cualquier duda o sugerencia, consultar directamente a la Unidad Web._
+
+
+**CÓDIGO HEXADECIMAL** 
+
+| Color                                                    | Hex       | Desc        |
+| -------------------------------------------------------- | --------- | ----------- |
+| ![#175a2d](https://placehold.it/15/175a2d/000000?text=+) | `175a2d`  | Postgrado UCAB    |
+| ![#42b3e3](https://placehold.it/15/42b3e3/000000?text=+) | `#42b3e3` | CIAP UCAB   |
+| ![#f58220](https://placehold.it/15/f58220/000000?text=+) | `#f58220` | Educación UCAB    |
+| ![#0a72ba](https://placehold.it/15/0a72ba/000000?text=+) | `#0a72ba` | Ingeniería UCAB|
+| ![#c42127](https://placehold.it/15/c42127/000000?text=+) | `#c42127` | Derecho UCAB|
+| ![#5b2751](https://placehold.it/15/5b2751/000000?text=+) | `5b2751`  | RRII UCAB    |
+| ![#3dabc0](https://placehold.it/15/3dabc0/000000?text=+) | `#3dabc0` | Sociología UCAB    |
+| ![#C4151C](https://placehold.it/15/C4151C/000000?text=+) | `#C4151C` | Verde color principal UCAB    |
+| ![#922884](https://placehold.it/15/922884/000000?text=+) | `#922884` | Verde color principal UCAB    |
+| ![#FEC10D](https://placehold.it/15/FEC10D/000000?text=+) | `#FEC10D` | Verde color principal UCAB    | 
