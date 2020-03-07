@@ -232,8 +232,8 @@ Está compuesta por los colores principales de la identidad gráfica de la UCAB,
 
 **CÓDIGO HEXADECIMAL**
 
-| Color                                                    | Hex       | Desc        |
-| -------------------------------------------------------- | --------- | ----------- |
+| Color                                                    | Hex       | Nombre color                          |
+| -------------------------------------------------------- | --------- | -----------                   |
 | ![#ffc526](https://placehold.it/15/ffc526/000000?text=+) | `#ffc526` | Amarillo color principal UCAB |
 | ![#40b4e5](https://placehold.it/15/40b4e5/000000?text=+) | `#40b4e5` | Azul color principal UCAB     |
 | ![#047732](https://placehold.it/15/047732/000000?text=+) | `#047732` | Verde color principal UCAB    |
@@ -245,9 +245,9 @@ Comprenden tonalidades que provienen del análisis de color realizado sobre la p
 
 **CÓDIGO HEXADECIMAL**
 
-| Color                                                    | Hex       | Desc        |
-| -------------------------------------------------------- | --------- | ----------- |
-| ![#F5821F](https://placehold.it/15/F5821F/000000?text=+) | `#F5821F` | Naranja color secundario UCAB    |
+| Color                                                    | Hex       | Nombre color                     |
+| -------------------------------------------------------- | --------- | -----------                      |
+| ![#F5821F](https://placehold.it/15/F5821F/000000?text=+) | `#F5821F` | ucab-orange    |
 | ![#00A79D](https://placehold.it/15/00A79D/000000?text=+) | `#00A79D` | Turquesa color secundario UCAB   |
 | ![#ED2A7B](https://placehold.it/15/ED2A7B/000000?text=+) | `#ED2A7B` | Magenta color secundario UCAB    |
 | ![#8CC63E](https://placehold.it/15/8CC63E/000000?text=+) | `#8CC63E` | Verde claro color secundario UCAB|
@@ -256,10 +256,28 @@ Comprenden tonalidades que provienen del análisis de color realizado sobre la p
 | ![#50237F](https://placehold.it/15/50237F/000000?text=+) | `#50237F` | Verde color principal UCAB    |
 | ![#C4151C](https://placehold.it/15/C4151C/000000?text=+) | `#C4151C` | Verde color principal UCAB    |
 | ![#922884](https://placehold.it/15/922884/000000?text=+) | `#922884` | Verde color principal UCAB    |
-| ![#FEC10D](https://placehold.it/15/FEC10D/000000?text=+) | `#FEC10D` | Verde color principal UCAB    | 
+| ![#FEC10D](https://placehold.it/15/FEC10D/000000?text=+) | `#FEC10D` | Verde color principal UCAB    |
 
 
-**7.3 Paleta Sistema de Marcas UCAB:**
+**7.3 Paleta escala de grises UCAB:**
+
+
+**CÓDIGO HEXADECIMAL**
+
+| Color                                                    | Hex       | Nombre color      |
+| -------------------------------------------------------- | --------- | -----------       |
+| ![#ffffff](https://placehold.it/15/ffffff/000000?text=+) | `#ffffff` | White             |
+| ![#eeeeee](https://placehold.it/15/eeeeee/000000?text=+) | `#eeeeee` | ucab-white-gray   |
+| ![#cdcdcd](https://placehold.it/15/cdcdcd/000000?text=+) | `#cdcdcd` | ucab-lighter-gray |
+| ![#b3b3b3](https://placehold.it/15/b3b3b3/000000?text=+) | `#b3b3b3` | ucab-light-gray   |
+| ![#787878](https://placehold.it/15/787878/000000?text=+) | `#787878` | ucab-gray         |
+| ![#4d4d4d](https://placehold.it/15/4d4d4d/000000?text=+) | `#4d4d4d` | ucab-dark-gray    |
+| ![#343434](https://placehold.it/15/343434/000000?text=+) | `#343434` | ucab-darken-gray  |
+| ![#000000](https://placehold.it/15/000000/000000?text=+) | `#000000` | Black             |
+
+
+
+**7.4 Paleta Sistema de Marcas UCAB:**
 
 En aras de brindar identidad a las distintas marcas que agrupan el Sistema de Marcas UCAB, la Unidad Web en conjunto con la Dirección de Mercadeo Institucional designaron los siguientes colores para cada una de ellas.
 
@@ -268,15 +286,21 @@ _NOTA: Ante cualquier duda o sugerencia, consultar directamente a la Unidad Web.
 
 **CÓDIGO HEXADECIMAL** 
 
-| Color                                                    | Hex       | Desc        |
-| -------------------------------------------------------- | --------- | ----------- |
-| ![#175a2d](https://placehold.it/15/175a2d/000000?text=+) | `175a2d`  | Postgrado UCAB    |
-| ![#42b3e3](https://placehold.it/15/42b3e3/000000?text=+) | `#42b3e3` | CIAP UCAB   |
-| ![#f58220](https://placehold.it/15/f58220/000000?text=+) | `#f58220` | Educación UCAB    |
-| ![#0a72ba](https://placehold.it/15/0a72ba/000000?text=+) | `#0a72ba` | Ingeniería UCAB|
-| ![#c42127](https://placehold.it/15/c42127/000000?text=+) | `#c42127` | Derecho UCAB|
-| ![#5b2751](https://placehold.it/15/5b2751/000000?text=+) | `5b2751`  | RRII UCAB    |
-| ![#3dabc0](https://placehold.it/15/3dabc0/000000?text=+) | `#3dabc0` | Sociología UCAB    |
-| ![#C4151C](https://placehold.it/15/C4151C/000000?text=+) | `#C4151C` | Verde color principal UCAB    |
-| ![#922884](https://placehold.it/15/922884/000000?text=+) | `#922884` | Verde color principal UCAB    |
-| ![#FEC10D](https://placehold.it/15/FEC10D/000000?text=+) | `#FEC10D` | Verde color principal UCAB    | 
+| Color                                                    | Hex       | Marca                                                 |
+| -------------------------------------------------------- | --------- | -----------                                           |
+| ![#175a2d](https://placehold.it/15/175a2d/000000?text=+) | `175a2d`  | Postgrado UCAB                                        |
+| ![#42b3e3](https://placehold.it/15/42b3e3/000000?text=+) | `#42b3e3` | CIAP UCAB                                             |
+| ![#f58220](https://placehold.it/15/f58220/000000?text=+) | `#f58220` | Educación UCAB                                        |         
+| ![#0a72ba](https://placehold.it/15/0a72ba/000000?text=+) | `#0a72ba` | Ingeniería UCAB                                       |
+| ![#c42127](https://placehold.it/15/c42127/000000?text=+) | `#c42127` | Derecho UCAB                                          |
+| ![#5b2751](https://placehold.it/15/5b2751/000000?text=+) | `5b2751`  | RRII UCAB                                             |
+| ![#3dabc0](https://placehold.it/15/3dabc0/000000?text=+) | `#3dabc0` | Sociología UCAB                                       |
+| ![#00568E](https://placehold.it/15/00568E/000000?text=+) | `00568E`  | Comunicación UCAB                                     |
+| ![#0fa86d](https://placehold.it/15/0fa86d/000000?text=+) | `#0fa86d` | Filosofía UCAB                                        |
+| ![#c5832a](https://placehold.it/15/c5832a/000000?text=+) | `#c5832a` | Letras UCAB                                           |
+| ![#58338e](https://placehold.it/15/58338e/000000?text=+) | `#58338e` | Psicología UCAB                                       |
+| ![#1891b2](https://placehold.it/15/1891b2/000000?text=+) | `1891b2`  | Teología UCAB                                         |
+| ![#0d6e75](https://placehold.it/15/0d6e75/000000?text=+) | `#0d6e75` | Administración UCAB                                   |
+| ![#95265b](https://placehold.it/15/95265b/000000?text=+) | `95265b`  | Contaduría UCAB                                       |
+| ![#6d111c](https://placehold.it/15/6d111c/000000?text=+) | `#6d111c` | Economía UCAB                                         |
+| ![#17375e](https://placehold.it/15/17375e/000000?text=+) | `#17375e` | Negocios UCAB (marca made Administración y Contaduría)| 
