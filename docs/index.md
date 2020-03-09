@@ -248,15 +248,15 @@ Comprenden tonalidades que provienen del análisis de color realizado sobre la p
 | Color                                                    | Hex       | Nombre color                     |
 | -------------------------------------------------------- | --------- | -----------                      |
 | ![#F5821F](https://placehold.it/15/F5821F/000000?text=+) | `#F5821F` | ucab-orange    |
-| ![#00A79D](https://placehold.it/15/00A79D/000000?text=+) | `#00A79D` | Turquesa color secundario UCAB   |
-| ![#ED2A7B](https://placehold.it/15/ED2A7B/000000?text=+) | `#ED2A7B` | Magenta color secundario UCAB    |
-| ![#8CC63E](https://placehold.it/15/8CC63E/000000?text=+) | `#8CC63E` | Verde claro color secundario UCAB|
-| ![#0a72ba](https://placehold.it/15/0a72ba/000000?text=+) | `#0a72ba` | Azul oscuro color secundario UCAB|
-| ![#00A66C](https://placehold.it/15/50237F/000000?text=+) | `#50237FC`| Verde color principal UCAB    |
-| ![#50237F](https://placehold.it/15/50237F/000000?text=+) | `#50237F` | Verde color principal UCAB    |
-| ![#C4151C](https://placehold.it/15/C4151C/000000?text=+) | `#C4151C` | Verde color principal UCAB    |
-| ![#922884](https://placehold.it/15/922884/000000?text=+) | `#922884` | Verde color principal UCAB    |
-| ![#FEC10D](https://placehold.it/15/FEC10D/000000?text=+) | `#FEC10D` | Verde color principal UCAB    |
+| ![#00A79D](https://placehold.it/15/00A79D/000000?text=+) | `#00A79D` | ucab-teal   |
+| ![#ED2A7B](https://placehold.it/15/ED2A7B/000000?text=+) | `#ED2A7B` | ucab-pink    |
+| ![#8CC63E](https://placehold.it/15/8CC63E/000000?text=+) | `#8CC63E` | ucab-lawn-green |
+| ![#0071bb](https://placehold.it/15/0071bb/000000?text=+) | `#0071bb` | ucab-dark-blue|
+| ![#00A66C](https://placehold.it/15/00a66c/000000?text=+) | `#00a66c` | ucab-spring-green    |
+| ![#50237F](https://placehold.it/15/50237F/000000?text=+) | `#50237F` | ucab-grape    |
+| ![#C4151C](https://placehold.it/15/C4151C/000000?text=+) | `#C4151C` | ucab-red    |
+| ![#922884](https://placehold.it/15/922884/000000?text=+) | `#922884` | ucab-purple    |
+| ![#FEC10D](https://placehold.it/15/FEC10D/000000?text=+) | `#FEC10D` | ucab-light-yellow    |
 
 
 **7.3 Paleta escala de grises UCAB:**
