@@ -304,3 +304,40 @@ _NOTA: Ante cualquier duda o sugerencia, consultar directamente a la Unidad Web.
 | ![#95265b](https://placehold.it/15/95265b/000000?text=+) | `95265b`  | Contaduría UCAB                                       |
 | ![#6d111c](https://placehold.it/15/6d111c/000000?text=+) | `#6d111c` | Economía UCAB                                         |
 | ![#17375e](https://placehold.it/15/17375e/000000?text=+) | `#17375e` | Negocios UCAB (marca made Administración y Contaduría)| 
+
+
+## 8. Tipografías (uso normativo).
+
+Dentro del Proyecto Web UCAB, se manejan tres estilos de tipografías las cuales serán explicadas a continuación:
+
+**_NOTA: Todas las tipografías se encuentran configuradas en el Tema UCAB de tal manera que los desarrolladores puedan ubicarlas con facilidad. Ante cualquier duda, consultar con el equipo de la Unidad Web_**.
+
+**8.1 Familia Fedra Sans (tipografía del Tema UCAB)**
+ 
+ **_8.1.1 Fedra Sans Std Bold._**
+   - **Uso:** Títulos y Encabezados del H1 al H6. 
+  
+ **_8.1.2 Fedra Sans Std Normal_**
+-  **Uso:** Menú de facetas. 
+-  **Tamaño:**  10 píxeles. 
+
+**8.2 Familia Open Sans**
+
+ **_8.2.1 Open Sans Normal_**
+-  **Usos:** 
+   - Destinada a la lectura de la página (párrafos)
+   - Menú de Facetas.
+   - Barra de Menú Lateral Izquierdo
+   - Breadcrumbs 
+ 
+-  **Tamaños:** 
+   - _Párrafos_: 16 píxeles.
+   - _Menú de Facetas_: 10 píxeles
+   - _Barra de Menú Lateral Izquierdo_: 16 píxeles.
+   - _Breadcrumbs_: 14 píxeles.
+ 
+**8.3 Familia Source Sans Pro**
+**_8.3.1 Source Sans Pro Semi Bold_**
+
+- **Uso**: Barra de menú principal.
+- **Tamaño**: 14.4 píxeles.
