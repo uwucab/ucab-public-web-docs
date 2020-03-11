@@ -430,4 +430,50 @@ Dentro del Proyecto Web UCAB, se manejan tres estilos de tipografías las cuales
 
 - **Uso**: Redireccionar hacia otras secciones o contenidos de interés de una manera limpia y organizada.
 
-- **Recomendaciones**: Evitar colocar textos que excedan dos o tres palabras.
+- **Recomendaciones**: Evitar colocar textos que excedan dos o tres palabras. 
+
+
+**9.2 Componentes de anchura completa**
+
+**Carrusel UCAB:** 
+-  **_Características gráficas:_**
+
+   - **_Tipografía_**: Fedra Sans Std Bold (títulos)
+   
+   - **_Color de tipografía:_** #4D4D4D
+   
+    - **_Tamaño_:** 24.8 píxeles.
+    
+    **Open Sans Normal (párrafos)**
+    
+     - **_Color de tipografía:_** #343434
+   
+    - **_Tamaño_:** 14 píxeles.
+   
+
+-  **_Descripción general:_** Componente que facilita el despliegue de información de forma resumida y concreta.  
+
+- **Uso**: Destacar contenido y facilitar la redirección a otras páginas.
+
+- **Recomendaciones**: Evitar colocar más de cinco slides en el carrusel. Esto contribuye a que la carga de la página sea fluida. 
+
+
+**Separador Circular UCAB:** 
+-  **_Características gráficas:_**
+
+   - **_Tipografía_**: Roboto Slab (enunciados)
+ 
+   **_Nota: Esta tipografía es de uso exclusivo para este componente. Se restringe su uso en otros apartados de los sitios web_**.
+   
+   - **_Color de tipografía:_** ##ffffffff
+   
+    -  **_Tamaño_:** 30 píxeles.
+   
+    - **_Color del componente_:** Adopta el color principal del sitio.
+    
+ 
+-  **_Descripción general:_** Barra horizontal de ancho completo con una imagen alusiva al texto dispuesto en la misma.  
+
+- **Uso**: Destacar contenido,facilitar la redirección a otras páginas, y separar secciones.
+
+- **Recomendaciones**: Evitar plantear textos muy largos ya que pueden salirse del componente.
