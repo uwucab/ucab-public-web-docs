@@ -341,3 +341,93 @@ Dentro del Proyecto Web UCAB, se manejan tres estilos de tipografías las cuales
 
 - **Uso**: Barra de menú principal.
 - **Tamaño**: 14.4 píxeles.
+
+
+## 9. Componentes UCAB.
+**9.1 Componentes Regulares**
+
+**Acordeón UCAB:** 
+-  **_Características gráficas:_**
+
+   - **_Tipografía_**:  Fedra Sans Std Bold (Títulos)
+   - **_Color de tipografía:_** 
+    **Opción desplegada:** #000000
+    **Opción sin desplegar:** #666666 
+
+    **Open Sans Normal (Párrafos)**:
+    
+   - **Tamaño**:20.8 píxeles. 
+   
+   - **_Color de tipografía:_** #343434 
+
+-  **_Descripción general:_** Lista dividida por secciones con un título y un contenido incluido. Por defecto, en todo apartado en donde se disponga de un acordeón, la primera opción quedará desplegada. Asimismo, este componente adquiere el color principal del sitio.
+
+- **Uso**: Enumerar etapas o procesos a seguir comunes entre sí o, en su defecto, para agrupar contenido con las mismas características.
+
+- **Recomendaciones**: No sobrecargar las secciones. Si una abarca mucho contenido, esta deberá ser dividida.
+
+
+**Anuncio Horizontal UCAB:** 
+-  **_Características gráficas:_**
+
+   - **_Tipografía_**: Fedra Sans Std Bold (títulos)
+   
+   - **_Color de tipografía:_** #787878 
+    
+- **_Tamaño_:** 27.2 píxeles.
+   
+    **Open Sans Normal (Párrafos)**:
+
+   - **_Color de tipografía:_** #343434 
+   
+   -  **Tamaño**:16 píxeles. 
+
+
+-  **_Descripción general:_** Componente cuya funcionalidad se centra en destacar contenido de forma introductoria y resumida.  Permite la redirección hacia otro contenido de interés siempre y cuando se especifique un enlace.
+
+- **Uso**: Redireccionar hacia otras secciones o contenidos de interés de una manera limpia y organizada.
+
+- **Recomendaciones**: 
+
+
+**Anuncio Vertical UCAB:** 
+-  **_Características gráficas:_**
+
+   - **_Tipografía_**: Fedra Sans Std Bold (títulos)
+   
+   - **_Color de tipografía:_** #787878
+   
+    - **_Tamaño_:** 27.2 píxeles.
+   
+    **Open Sans Normal (Párrafos)**:
+
+   - **_Color de tipografía:_** #343434 
+   
+   -  **Tamaño**:16 píxeles. 
+
+
+-  **_Descripción general:_** Componente cuya funcionalidad se centra en destacar contenido de forma introductoria y resumida.  Permite la redirección hacia otro contenido de interés siempre y cuando se especifique un enlace.
+
+- **Uso**: Redireccionar hacia otras secciones o contenidos de interés de una manera limpia y organizada.
+
+- **Recomendaciones**: 
+
+
+**Botón Principal UCAB:** 
+-  **_Características gráficas:_**
+
+   - **_Tipografía_**: Fedra Sans Std Bold (títulos)
+   
+   - **_Color de tipografía:_** #666666
+   
+    - **_Tamaño_:** 16 píxeles.
+    
+    - **_Color del Componente apagado_:** #666666
+    
+    - **_Color del Componente encendido  (hoover)_:** Adquiere el color secundario dispuesto para el sitio. 
+
+-  **_Descripción general:_** Componente cuya funcionalidad se centra en ofrecer, a través de un enunciado contenido en un botón, la posibilidad de redireccionar a otra instancia o sección. 
+
+- **Uso**: Redireccionar hacia otras secciones o contenidos de interés de una manera limpia y organizada.
+
+- **Recomendaciones**: Evitar colocar textos que excedan dos o tres palabras.
