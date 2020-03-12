@@ -476,4 +476,40 @@ Dentro del Proyecto Web UCAB, se manejan tres estilos de tipografías las cuales
 
 - **Uso**: Destacar contenido,facilitar la redirección a otras páginas, y separar secciones.
 
-- **Recomendaciones**: Evitar plantear textos muy largos ya que pueden salirse del componente.
+- **Recomendaciones**: Evitar plantear textos muy largos ya que pueden salirse del componente. 
+
+
+## 10. Manejo de imágenes dentro del sitio web (sitio de primer nivel y sitios de segundo nivel).
+En aras de normar el uso correcto de imágenes dentro de los sitios que comprenden el proyecto web UCAB, se proceden a mencionar las siguientes especificaciones. 
+
+ 
+-  **_10.1 Consideraciones iniciales:_**
+
+   - Se restringe el uno de cualquier tipo de marca de agua sobre las imágenes.
+   
+   - Si las imágenes tienen autoría externa a la UCAB, **deberán colocarse sus respectivos créditos  al finalizar el contenido de la página donde se estén utilizando dichos recursos.** 
+   
+    - De ser necesario, los interesados pueden solicitar pautas fotográficas para nutrir sus sitios web. Para elllo, deberán ser pautadas con la Unidad Web para que, desde allí, se gestione dicho proceso. Los interesados serán notificados de la fecha y hora respectivamente cuando este proceso se haya llevado a cabo dentro de la Dirección General de Comunicación, Mercadeo y Promoción.
+     
+ **10.2 Especificaciones para uso de imágenes en los componentes del tema UCAB**
+    
+  - **Imágenes de cabecera en secciones de anchura completa**
+   
+    - **_Tamaño de imagen_:** 1820 x 500 píxeles
+   
+  - **Componente de tarjeta UCAB**
+   
+    - **_Tamaño de imagen_:** 500 X 500 píxeles
+    
+
+ - **Componente de Anuncio Vetical UCAB**
+   
+    - **_Tamaño de imagen_:** 1158 x 500 íxeles.
+
+ - **Componente de Anuncio Vetical UCAB (separación de sedes en los sitios del Sistema de Marcas**
+   
+    - **_Tamaño de imagen_:** 800 x 480 píxeles.
+
+- **Componente de Cintillo UCAB_:**
+
+  - **_Tamaño de imagen_:** 800 X 800 píxeles.
