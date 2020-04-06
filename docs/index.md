@@ -48,7 +48,7 @@ Dentro de los lineamientos que se desarrollarán en este manual, se explican:
 - Catálogo de componentes web desarrollados para el **Tema UCAB**.
 - Normas para la línea Editorial de los sitios web UCAB.
 
-> Ante cualquier duda, sugerencia o solicitud, contacte a los miembros del equipo de la Unidad Web a través de las siguientes coordenadas:
+> Ante cualquier duda, sugerencia o solicitud, contacte a los miembros del equipo de la **Unidad Web** a través de las siguientes coordenadas:
 
 ## Dirección General de Comunicación, Mercadeo y Promoción
 
@@ -79,7 +79,7 @@ El presente material pretende atender las necesidades informativas de los intere
 - Desarrolladores web.
 - Diseñadores gráficos y web.
 
-> Ante cualquier duda, sugerencia o solicitud, contacte a los miembros del equipo de la Unidad Web.
+> Ante cualquier duda, sugerencia o solicitud, contacte a los miembros del equipo de la **Unidad Web**.
 
 # 3. Protocolo de solicitud sitios web
 
@@ -95,7 +95,7 @@ Alberga la página institucional http://www.ucab.edu.ve . Este es el referente p
 
 ## 4.2. Sitios de segundo nivel
 
-Este grupo lo componen las dependencias académicas y administrativas de la universidad. Estas deberán apegarse a la línea gráfica de la página web institucional y sólo cambiarán en el color principal, el cual será debidamente asignado por el equipo de la Unidad Web.
+Este grupo lo componen las dependencias académicas y administrativas de la universidad. Estas deberán apegarse a la línea gráfica de la página web institucional y sólo cambiarán en el color principal, el cual será debidamente asignado por el equipo de la **Unidad Web**.
 
 ### Ejemplos de sitios de segundo nivel
 
@@ -112,7 +112,7 @@ Comprende los sitos que no son dependencias académicas y administrativas, pero 
 - **Sitio de Consultors UCAB** ([https://consultores.ucab.edu.ve/](https://consultores.ucab.edu.ve/))
 - **Sitio de UCAB Virtual** ([https://ucabvirtual.ucab.edu.ve/](https://ucabvirtual.ucab.edu.ve/))
 
-> Ante cualquier duda, sugerencia o solicitud, contacte a los miembros del equipo de la Unidad Web.
+> Ante cualquier duda, sugerencia o solicitud, contacte a los miembros del equipo de la **Unidad Web**.
 
 # 5. Estructura
 
@@ -122,18 +122,22 @@ Dentro del **Proyecto web UCAB**, los sitios se conciben bajo un mismo esquema a
 
 Zona que identifica un sitio en específico. En esta área se encuentran contenidos:
 
-- Identidad gráfica de la página (logotipo)
+- Identidad gráfica de la página (logotipo).
 - Menú principal o institucional.
-- Menú de facetas
-- Buscador
+- Menú de facetas.
+- Buscador.
 
-Como normativa fundamental, los sitios de segundo nivel deberán mantener, previo al menú principal, el espacio del logotipo en blanco. Con relación al menú principal, el color se adecuará a los parámetros dictaminados por la Unidad Web. Para los sitios de tercer nivel, se mantiene la libertad de ajustarlo de acuerdo a las necesidades de los principales interesados previa aprobación de la Unidad Web.
+Como normativa fundamental, los sitios de segundo nivel deberán mantener, previo al menú principal, el espacio del logotipo en blanco. Con relación al menú principal, el color se adecuará a los parámetros dictaminados por la **Unidad Web**. Para los sitios de tercer nivel, se mantiene la libertad de ajustarlo de acuerdo a las necesidades de los principales interesados previa aprobación de la **Unidad Web**.
+
+![Cabecera o header](assets/images/docs/structure/header-ucab.png)
 
 ## 5.2. Pie de página o _footer_
 
-Espacio donde se encuentran contenidos enlaces de interés que permitan al usuario final redirigir a donde desee, alineados siempre a la arquitectura de información del sitio. Los sitios de segundo nivel deben mantener el estilo gráfico del pie de página del sitio web institucional, mientras que los de tercer nivel cuentan con la libertad de modificarlo previo acuerdo y aprobación de la Unidad Web.
+Espacio donde se encuentran contenidos enlaces de interés que permitan al usuario final redirigir a donde desee, alineados siempre a la arquitectura de información del sitio. Los sitios de segundo nivel deben mantener el estilo gráfico del pie de página del sitio web institucional, mientras que los de tercer nivel cuentan con la libertad de modificarlo previo acuerdo y aprobación de la **Unidad Web**.
 
 Como normativa imperante tanto para la cabecera como el pie de página, el link de redirección a la UCAB debe colocarse de forma obligatoria en los sitios de segundo y tercer nivel, siempre y cuando estos no dispongan de la identidad gráfica de la universidad (logotipo).
+
+![Pie de página o footer](assets/images/docs/structure/footer-ucab.png)
 
 ## 5.3. _Layouts_
 
@@ -143,9 +147,13 @@ Dentro del **Tema UCAB**, se disponen de dos tipos de _layouts_ fundamentales:
 
 Diseño que busca ocupar la totalidad del navegador. Como característica fundamental, este puede incorporar el uso de imágenes que mantengan las mismas dimensiones en ancho. Este esquema es aplicable para los tres niveles de sitios web.
 
+![Layout de ancho completo](assets/images/docs/structure/layout-fullwidth-ucab.png)
+
 ### 5.3.2. _Layout_ de barra lateral izquierda o _sidebar_
 
 Este diseño se compone de dos secciones principales. La primera, situada a la izquierda, contiene el menú de navegación con el mapa del sitio (opciones más específicas para un usuario que lleva un recorrido más largo al visitar las páginas). La sección de la derecha, ocupa el contenido de la página a ser visualizada. Asimismo, este layout contempla el uso de _breadcrumbs_ (migajas de pan) los cuales se ubican del lado izquierdo, justo por encima del menú lateral. Estos cumplen la función de ser guía para los usuarios durante su recorrido y la capacidad de que puedan volver a secciones específicas de la manera más expedita posible. Este esquema es aplicable para los tres niveles de sitios web.
+
+![Layout de barra lateral izquierda o sidebar](assets/images/docs/structure/layout-left-sidebar-ucab.png)
 
 ## 5.4. Menús
 
@@ -153,23 +161,33 @@ Dentro del esquema web UCAB, se contempla el uso de cuatro menús en específico
 
 ### 5.4.1. Menú principal
 
-Contiene las opciones que se visualizan en la cabecera del sitio. Este debe ser consultado y aprobado por la Unidad Web.
+Contiene las opciones que se visualizan en la cabecera del sitio. Este debe ser consultado y aprobado por la **Unidad Web**.
+
+![Menú principal](assets/images/docs/structure/menu-main-ucab.png)
 
 ### 5.4.2. Menú de facetas
 
-Ubicado en la parte superior derecha de la cabecera de la página, alberga las opciones cuyas funciones son más específicas con relación al contenido del sitio. De acuerdo a la naturaleza de las páginas, las facetas pueden fungir como filtro para especificar el tipo de usuario y la información que requieren consultar (página web institucional y Marcas UCAB), o como opciones complementarias para nutrir el árbol de navegación. En ambos casos, estas deben ser discutidas y aprobadas por la Unidad Web.
+Ubicado en la parte superior derecha de la cabecera de la página, alberga las opciones cuyas funciones son más específicas con relación al contenido del sitio. De acuerdo a la naturaleza de las páginas, las facetas pueden fungir como filtro para especificar el tipo de usuario y la información que requieren consultar (página web institucional y Marcas UCAB), o como opciones complementarias para nutrir el árbol de navegación. En ambos casos, estas deben ser discutidas y aprobadas por la **Unidad Web**.
+
+![Menú de facetas](assets/images/docs/structure/menu-aspects-ucab.png)
 
 ### 5.4.3. Menú institucional
 
 Opciones que sólo son visibles al activar el buscador. Funge como ayuda al usuario para que, al estar dentro de la sección anteriormente mencionada, este pueda tener la capacidad de visualizar el menú de la página web UCAB sin necesidad de abandonar el sitio que se está visitando.
 
+![Menú institucional](assets/images/docs/structure/menu-institucional-ucab.png)
+
 ### 5.4.4. Menú de pie de página o _footer_
 
-Contiene las opciones destinadas para el pie de página y los íconos de redes sociales (Facebook, Twitter e Instagram solamente). Estas deben ser discutidas y aprobadas por la Unidad Web.
+Contiene las opciones destinadas para el pie de página y los íconos de redes sociales (Facebook, Twitter e Instagram solamente). Estas deben ser discutidas y aprobadas por la **Unidad Web**.
+
+![Menú de pie de página o footer](assets/images/docs/structure/menu-footer-ucab.png)
 
 ## 5.5. Buscador
 
 Es el componente encargado de realizar una búsqueda de páginas o entradas a través del sitio en el que se encuentre el usuario por medio de una o varias palabras claves ofreciendo, posteriormente, un resultado para las coincidencias encontradas o un mensaje de alerta que indica que no ha habido coincidencias (en caso de que no exista alguna).
+
+![Buscador](assets/images/docs/structure/searcher-ucab.png)
 
 # 6. Logotipo (normativas de uso y comportamiento dentro del Tema UCAB)
 
@@ -185,27 +203,59 @@ Es el componente encargado de realizar una búsqueda de páginas o entradas a tr
 
 En cuanto a los formatos válidos para el uso web de la identidad del logo UCAB, estos corresponden a las siguientes versiones:
 
-- **Versión completa:**
-- **Versión simplificada:**
+#### Versión completa
+
+![Logo UCAB versión completa](assets/images/docs/logo/allowed-versions/complete-version.jpg)
+
+#### Versión simplificada
+
+![Logo UCAB versión simplificada](assets/images/docs/logo/allowed-versions/shrink-version.jpg)
 
 ### 6.2.2. Colores permitidos para el uso de los logos dentro de la web
 
-- **Versión a color:**
-- **Versión en blanco:**
-- **Versión en negro:**
-- **Versión en escala de grises:**
+#### Versión a color
+
+![Logo UCAB versión a color](assets/images/docs/logo/allowed-colors/color-version.jpg)
+
+#### Versión en blanco
+
+![Logo UCAB versión en blanco](assets/images/docs/logo/allowed-colors/white-version.jpg)
+
+#### Versión en negro
+
+![Logo UCAB versión en negro](assets/images/docs/logo/allowed-colors/black-version.jpg)
+
+#### Versión en escala de grises
+
+![Logo UCAB versión en escala de grises](assets/images/docs/logo/allowed-colors/gray-version.jpg)
 
 ### 6.2.3. Versiones restringidas en la web
 
-- **Cuadradas:**
-- **Distorsionadas o pixeladas:**
-- **En color que no sea UCAB:**
-- **Logos con bordes:**
-- **Versiones desactualizadas:**
+#### Cuadradas
+
+![Logo UCAB cuadrado](assets/images/docs/logo/disallowed-versions/square.jpg)
+
+#### Distorsionadas o pixeladas
+
+![Logo UCAB distorsionado o pixelado](assets/images/docs/logo/disallowed-versions/distorted-pixelated.jpg)
+
+#### En color que no sea UCAB
+
+![Logo UCAB distorsionado o pixelado](assets/images/docs/logo/disallowed-versions/not-allowed-colors.jpg)
+
+#### Logos con bordes
+
+![Logo UCAB con bordes](assets/images/docs/logo/disallowed-versions/borders.jpg)
+
+#### Versiones desactualizadas
+
+![Logo UCAB desactualizado](assets/images/docs/logo/disallowed-versions/outdated.jpg)
 
 ## 6.3. Comportamiento del logotipo simplificado al recorrer la página hacia abajo (_scrolldown_)
 
 Tanto en el sitio web institucional como en la jerarquía de segundo nivel, cuando el usuario comienza hacer un recorrido descendente en la página, el menú quedará estático en la parte superior del navegador. Las opciones se ajustarán del lado derecho, mientras que la identidad dispuesta en el sitio bajará y se colocará del lado izquierdo en su versión simplificada. El color permitido para la identidad este caso particular será el blanco. La versión completa del logo queda restringida en este espacio.
+
+![Logo UCAB (scrolldown)](assets/images/docs/logo/scrolldown/scrolldown.jpg)
 
 ## 6.4. Normas para la disposición de logos de acuerdo a la jerarquía de sitios
 
@@ -215,43 +265,52 @@ Tanto en el sitio web institucional como en la jerarquía de segundo nivel, cuan
 - **Tamaño del contenedor:** debe mantener una proporción de `245 x 35 píxeles`.
 - **Versión permitida:** versión a color. La cabecera mantendrá el color blanco de fondo.
 
+  ![Logo UCAB (sitios de segundo nivel)](assets/images/docs/logo/header-second-level/header-second-level.jpg)
+
 ### 6.4.2. Versión para el menú en _scrolldown_
 
 - **Ubicación:** lado izquierdo del menú principal.
-- **Tamaño del contenedor:** proporción de `102 x36 píxeles`.
+- **Tamaño del contenedor:** proporción de `102 x 36 píxeles`.
 - **Versión permitida:** versión simplificada en color blanco.
-  > Se restringe el uso de logotipos en el footer en los sitios de segundo nivel.
+
+> Se restringe el uso de logotipos en el _footer_ en los sitios de segundo nivel.
 
 ### 6.4.3. Normas para la disposición de logos en sitios de tercer nivel
 
-> Es importante recordar que los sitios de tercer nivel poseen la capacidad de tener libertad en cuanto a línea gráfica.
-
 A continuación, se ofrecen una serie de recomendaciones para la aplicación de identidades
-en los sitios que comprenden esta jerarquía.
+en los sitios que comprenden esta jerarquía:
+
+> Es importante recordar que los sitios de tercer nivel poseen la capacidad de tener libertad en cuanto a línea gráfica.
 
 #### Cabecera
 
 - **Ubicación:** de acuerdo a las necesidades del sitio.
 - **Versión del logotipo de acuerdo al color de la cabecera:**
-  - **Fondo blanco o en tonalidades claras:** logo en versión a Color o versión en negro.
+
+  - **Fondo blanco o en tonalidades claras:** logo en versión a color o versión en negro.
   - **Fondos oscuros:** logo en su versión en blanco.
+
+  ![Logo UCAB (sitios de tercer nivel)](assets/images/docs/logo/header-third-level/header-third-level.jpg)
 
 #### Pie de página (_footer_)
 
 - Logo UCAB en versión simplificada (uso obligatorio).
 - Color de la identidad UCAB permitida de acuerdo al color de fondo del pie de página:
-  - **Tonalidades claras:** Versión en negro.
-  - **Tonalidades oscuras:** Logo en su versión en blanco.
 
-> Toda aplicación de logotipo será aprobada, autorizada, y supervisada estrictamente por la Unidad Web. Cualquier cambio deberá ser consultado antes de ser ejecutado.
+  - **Tonalidades claras:** versión en negro.
+  - **Tonalidades oscuras:** logo en su versión en blanco.
+
+  ![Logo UCAB (pie de página o footer)](assets/images/docs/logo/footer-logo/footer-logo.jpg)
+
+> Toda aplicación de logotipo será aprobada, autorizada, y supervisada estrictamente por la **Unidad Web**. Cualquier cambio deberá ser consultado antes de ser ejecutado.
 
 # 7. Colores UCAB (uso de la Paleta 2020 y Sistema de Marcas)
 
 ## Consideraciones iniciales
 
 - La implementación de los colores UCAB es transversal para todos los sitios web de la universidad indistintamente de la jerarquía a la que pertenezca.
-- Los colores serán designados única y exclusivamente por la Unidad Web. Cualquier sugerencia deberá ser previamente consultada.
-- Todos los colores se encuentran configurados en el **Tema UCAB** de tal manera que los desarrolladores puedan ubicarlos con facilidad. Ante cualquier duda, consultar con el equipo de la Unidad Web.
+- Los colores serán designados única y exclusivamente por la **Unidad Web**. Cualquier sugerencia deberá ser previamente consultada.
+- Todos los colores se encuentran configurados en el **Tema UCAB** de tal manera que los desarrolladores puedan ubicarlos con facilidad. Ante cualquier duda, consultar con el equipo de la **Unidad Web**.
 
 Con relación a los colores implementados dentro del **Proyecto web UCAB**, estos se dividen en tres categorías fundamentales, las cuales se explicarán a continuación:
 
@@ -303,9 +362,9 @@ Comprenden tonalidades que provienen del análisis de color realizado sobre la p
 
 ## 7.4. Paleta Sistema de Marcas UCAB
 
-En aras de brindar identidad a las distintas marcas que agrupan el **Sistema de Marcas UCAB**, la Unidad Web en conjunto con la Dirección de Mercadeo Institucional designaron los siguientes colores para cada una de ellas.
+En aras de brindar identidad a las distintas marcas que agrupan el **Sistema de Marcas UCAB**, la **Unidad Web** en conjunto con la Dirección de Mercadeo Institucional designaron los siguientes colores para cada una de ellas.
 
-> Ante cualquier duda o sugerencia, consultar directamente a la Unidad Web.
+> Ante cualquier duda o sugerencia, consultar directamente a la **Unidad Web**.
 
 ### Código hexadecimal
 
@@ -332,7 +391,7 @@ En aras de brindar identidad a las distintas marcas que agrupan el **Sistema de 
 
 Dentro del **Proyecto web UCAB**, se manejan tres estilos de tipografías las cuales serán explicadas a continuación:
 
-> Todas las tipografías se encuentran configuradas en el **Tema UCAB** de tal manera que los desarrolladores puedan ubicarlas con facilidad. Ante cualquier duda, consultar con el equipo de la Unidad Web.
+> Todas las tipografías se encuentran configuradas en el **Tema UCAB** de tal manera que los desarrolladores puedan ubicarlas con facilidad. Ante cualquier duda, consultar con el equipo de la **Unidad Web**.
 
 ## 8.1. Familia Fedra Sans (tipografía del Tema UCAB)
 
@@ -375,6 +434,8 @@ Dentro del **Proyecto web UCAB**, se manejan tres estilos de tipografías las cu
 
 ### Acordeón UCAB
 
+![Acordeón UCAB](assets/images/docs/components/regular/accordion-ucab.jpg)
+
 #### Características gráficas
 
 - **Títulos**
@@ -405,6 +466,8 @@ No sobrecargar las secciones. Si una abarca mucho contenido, esta deberá ser di
 
 ### Anuncio Horizontal UCAB
 
+![Anuncio horizontal UCAB](assets/images/docs/components/regular/horizontal-blurb-ucab.jpg)
+
 #### Características gráficas
 
 - **Títulos**
@@ -428,6 +491,8 @@ Componente cuya funcionalidad se centra en destacar contenido de forma introduct
 Redireccionar hacia otras secciones o contenidos de interés de una manera limpia y organizada.
 
 ### Anuncio Vertical UCAB
+
+![Anuncio vertical UCAB](assets/images/docs/components/regular/vertical-blurb-ucab.jpg)
 
 #### Características gráficas
 
@@ -453,6 +518,8 @@ Redireccionar hacia otras secciones o contenidos de interés de una manera limpi
 
 ### Botón Principal UCAB
 
+![Botón principal UCAB](assets/images/docs/components/regular/main-button-ucab.jpg)
+
 #### Características gráficas
 
 - Tipografía: Fedra Sans Std Bold.
@@ -476,6 +543,8 @@ Evitar colocar textos que excedan dos o tres palabras.
 ## 9.2. Componentes de anchura completa
 
 ### Carrusel UCAB
+
+![Carrusel UCAB](assets/images/docs/components/fullwidth/slider-ucab.jpg)
 
 #### Características gráficas
 
@@ -505,6 +574,8 @@ Evitar colocar más de cinco _slides_ en el carrusel. Esto contribuye a que la c
 
 ### Separador Circular UCAB
 
+![Separador circular UCAB](assets/images/docs/components/fullwidth/circle-separator-ucab.jpg)
+
 #### Características gráficas
 
 - Tipografía: Roboto Slab.
@@ -525,6 +596,8 @@ Destacar contenido,facilitar la redirección a otras páginas, y separar seccion
 
 Evitar plantear textos muy largos ya que pueden salirse del componente.
 
+![Separador circular UCAB (contextualizado)](assets/images/docs/components/fullwidth/circle-separator-ucab-context.jpg)
+
 # 10. Manejo de imágenes dentro del sitio web (sitio de primer nivel y sitios de segundo nivel)
 
 En aras de normar el uso correcto de imágenes dentro de los sitios que comprenden el **Proyecto web UCAB**, se proceden a mencionar las siguientes especificaciones.
@@ -533,7 +606,7 @@ En aras de normar el uso correcto de imágenes dentro de los sitios que comprend
 
 - Se restringe el uno de cualquier tipo de marca de agua sobre las imágenes.
 - Si las imágenes tienen autoría externa a la UCAB, **deberán colocarse sus respectivos créditos al finalizar el contenido de la página donde se estén utilizando dichos recursos.**
-- De ser necesario, los interesados pueden solicitar pautas fotográficas para nutrir sus sitios web. Para elllo, deberán ser pautadas con la Unidad Web para que, desde allí, se gestione dicho proceso. Los interesados serán notificados de la fecha y hora respectivamente cuando este proceso se haya llevado a cabo dentro de la Dirección General de Comunicación, Mercadeo y Promoción.
+- De ser necesario, los interesados pueden solicitar pautas fotográficas para nutrir sus sitios web. Para elllo, deberán ser pautadas con la **Unidad Web** para que, desde allí, se gestione dicho proceso. Los interesados serán notificados de la fecha y hora respectivamente cuando este proceso se haya llevado a cabo dentro de la Dirección General de Comunicación, Mercadeo y Promoción.
 
 ## 10.2. Especificaciones para uso de imágenes en los componentes del Tema UCAB
 
