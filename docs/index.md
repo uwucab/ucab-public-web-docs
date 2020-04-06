@@ -1,10 +1,42 @@
 # Tabla de contenidos
 
 - [1. Introducción](#1.-introducción)
+- [2. ¿A quién va dirigido?](#2.-¿a-quién-va-dirigido?)
+- [3. Protocolo de solicitud sitios web](#3.-protocolo-de-solicitud-sitios-web)
+- [4. Jerarquía de sitios web](#4.-jerarquía-de-sitios-web)
+  - [4.1. Sitios de primer nivel](#4.1.-sitios-de-primer-nivel)
+  - [4.2. Sitios de segundo nivel](#4.2.-sitios-de-segundo-nivel)
+  - [4.3. Sitios de tercer nivel](#4.3.-sitios-de-tercer-nivel)
+- [5. Estructura](#5.-estructura)
+  - [5.1. Cabecera o header](#5.1.-cabecera-o-header)
+  - [5.2. Pie de página o footer](#5.2.-pie-de-página-o-footer)
+  - [5.3. Layouts](#5.3.-layouts)
+  - [5.4. Menús](#5.4.-menús)
+  - [5.5. Buscador](#5.5.-buscador)
+- [6. Logotipo (normativas de uso y comportamiento dentro del Tema UCAB)](<#6.-logotipo-(normativas-de-uso-y-comportamiento-dentro-del-tema-ucab)>)
+  - [6.1. Consideraciones iniciales](#6.1.-consideraciones-iniciales).
+  - [6.2. Formatos permitidos del logo UCAB dentro de las páginas web](#6.2.-formatos-permitidos-del-logo-ucab-dentro-de-las-páginas-web)
+  - [6.3. Comportamiento del logotipo simplificado al recorrer la página hacia abajo (scrolldown)](<#6.3.-Comportamiento-del-logotipo-simplificado-al-recorrer-la-página-hacia-abajo-(scrolldown)>)
+  - [6.4. Normas para la disposición de logos de acuerdo a la jerarquía de sitios](#6.4.-normas-para-la-disposición-de-logos-de-acuerdo-a-la-jerarquía-de-sitios)
+- [7. Colores UCAB (uso de la Paleta 2020 y Sistema de Marcas)](<#7.-colores-ucab-(uso-de-la-paleta-2020-y-sistema-de-marcas)>)
+  - [7.1. Paleta UCAB (principal)](<#7.1.-paleta-ucab-(principal)>)
+  - [7.2. Paleta UCAB 2020 (secundaria)](<#7.2.-paleta-ucab-2020-(secundaria)>)
+  - [7.3. Paleta escala de grises UCAB](#7.3.-paleta-escala-de-grises-ucab)
+  - [7.4. Paleta Sistema de Marcas UCAB](#7.4.-paleta-sistema-de-marcas-ucab)
+- [8. Tipografías (uso normativo)](<#8.-tipografías-(uso-normativo)>)
+  - [8.1. Familia Fedra Sans (tipografía del Tema UCAB)](<#8.1.-familia-fedra-sans-(tipografía-del-tema-ucab)>)
+  - [8.2. Familia Open Sans](#8.2.-familia-open-sans)
+  - [8.3. Familia Source Sans Pro](#8.3.-familia-source-sans-pro)
+- [9. Componentes UCAB](#9.-componentes-ucab)
+  - [9.1. Componentes regulares](#9.1.-componentes-regulares)
+  - [9.2. Componentes de anchura completa](#9.2.-componentes-de-anchura-completa)
+- [10. Manejo de imágenes dentro del sitio web (sitio de primer nivel y sitios de segundo nivel)](<#10.-manejo-de-imágenes-dentro-del-sitio-web-(sitio-de-primer-nivel-y-sitios-de-segundo-nivel)>)
+  - [10.1. Consideraciones iniciales](#10.1.-consideraciones-iniciales)
+  - [10.2. Especificaciones para uso de imágenes en los componentes del Tema UCAB](#10.2.-especificaciones-para-uso-de-imágenes-en-los-componentes-del-tema-ucab)
 
 # 1. Introducción
 
-El presente documento está elaborado con la finalidad de ser una guía que oriente los desarrollos enmarcados dentro del Proyecto Web UCAB, tanto en su fase de desarrollo como en el mantenimiento cotidiano de las páginas. Los usuarios e interesados en iniciar sitios web contarán con una serie de instrucciones y pasos normativos que van alineados con las tecnologías desarrolladas, la línea gráfica y editorial; pautas que son inherentes a la UCAB en sus plataformas digitales.
+El presente documento está elaborado con la finalidad de ser una guía que oriente los desarrollos enmarcados dentro del **Proyecto web UCAB**, tanto en su fase de desarrollo como en el mantenimiento cotidiano de las páginas. Los usuarios e interesados en iniciar sitios web contarán con una serie de instrucciones y pasos normativos que van alineados con las tecnologías desarrolladas, la línea gráfica y editorial; pautas que son inherentes a la UCAB en sus plataformas digitales.
 Dentro de los lineamientos que se desarrollarán en este manual, se explican:
 
 - Protocolos de solicitud para el desarrollo de sitios web en la UCAB.
@@ -53,7 +85,7 @@ El presente material pretende atender las necesidades informativas de los intere
 
 Por especificar.
 
-# 4. Jerarquía de sitios Web
+# 4. Jerarquía de sitios web
 
 En aras de brindar una organización estructurada a las páginas web de la UCAB de acuerdo a su línea gráfica y contenido, se dispone de una jerarquía de sitios definida por tres niveles fundamentales. A continuación, se explican cada uno de ellos:
 
@@ -84,7 +116,7 @@ Comprende los sitos que no son dependencias académicas y administrativas, pero 
 
 # 5. Estructura
 
-Dentro del Proyecto Web UCAB, los sitios se conciben bajo un mismo esquema a nivel de estructura, la cual permite organizar de la mejor forma posible los contenidos destinados a las mismas. Esta se organiza de la siguiente manera:
+Dentro del **Proyecto web UCAB**, los sitios se conciben bajo un mismo esquema a nivel de estructura, la cual permite organizar de la mejor forma posible los contenidos destinados a las mismas. Esta se organiza de la siguiente manera:
 
 ## 5.1. Cabecera o _header_
 
@@ -137,7 +169,7 @@ Contiene las opciones destinadas para el pie de página y los íconos de redes s
 
 ## 5.5. Buscador
 
-Es el componente encargado de realizar una búsqueda de páginas o entradas a través del sitio en el que se encuentre el usuario por medio de una o varias palabras claves ofreciendo, posteriormente, un resultado para las coincidencias encontradas o un mensaje de alerta que indica que no ha habido coincidencias (en caso de que no exista alguna)
+Es el componente encargado de realizar una búsqueda de páginas o entradas a través del sitio en el que se encuentre el usuario por medio de una o varias palabras claves ofreciendo, posteriormente, un resultado para las coincidencias encontradas o un mensaje de alerta que indica que no ha habido coincidencias (en caso de que no exista alguna).
 
 # 6. Logotipo (normativas de uso y comportamiento dentro del Tema UCAB)
 
@@ -221,7 +253,7 @@ en los sitios que comprenden esta jerarquía.
 - Los colores serán designados única y exclusivamente por la Unidad Web. Cualquier sugerencia deberá ser previamente consultada.
 - Todos los colores se encuentran configurados en el **Tema UCAB** de tal manera que los desarrolladores puedan ubicarlos con facilidad. Ante cualquier duda, consultar con el equipo de la Unidad Web.
 
-Con relación a los colores implementados dentro del Proyecto Web UCAB, estos se dividen en tres categorías fundamentales, las cuales se explicarán a continuación:
+Con relación a los colores implementados dentro del **Proyecto web UCAB**, estos se dividen en tres categorías fundamentales, las cuales se explicarán a continuación:
 
 ## 7.1. Paleta UCAB (principal)
 
@@ -271,7 +303,7 @@ Comprenden tonalidades que provienen del análisis de color realizado sobre la p
 
 ## 7.4. Paleta Sistema de Marcas UCAB
 
-En aras de brindar identidad a las distintas marcas que agrupan el Sistema de Marcas UCAB, la Unidad Web en conjunto con la Dirección de Mercadeo Institucional designaron los siguientes colores para cada una de ellas.
+En aras de brindar identidad a las distintas marcas que agrupan el **Sistema de Marcas UCAB**, la Unidad Web en conjunto con la Dirección de Mercadeo Institucional designaron los siguientes colores para cada una de ellas.
 
 > Ante cualquier duda o sugerencia, consultar directamente a la Unidad Web.
 
@@ -298,7 +330,7 @@ En aras de brindar identidad a las distintas marcas que agrupan el Sistema de Ma
 
 # 8. Tipografías (uso normativo)
 
-Dentro del Proyecto Web UCAB, se manejan tres estilos de tipografías las cuales serán explicadas a continuación:
+Dentro del **Proyecto web UCAB**, se manejan tres estilos de tipografías las cuales serán explicadas a continuación:
 
 > Todas las tipografías se encuentran configuradas en el **Tema UCAB** de tal manera que los desarrolladores puedan ubicarlas con facilidad. Ante cualquier duda, consultar con el equipo de la Unidad Web.
 
@@ -341,165 +373,177 @@ Dentro del Proyecto Web UCAB, se manejan tres estilos de tipografías las cuales
 
 ## 9.1. Componentes regulares
 
-**Acordeón UCAB:**
+### Acordeón UCAB
 
-- **_Características gráficas:_**
+#### Características gráficas
 
-  - **_Tipografía_**: Fedra Sans Std Bold (Títulos)
-  - **_Color de tipografía:_**
-    **Opción desplegada:** #000000
-    **Opción sin desplegar:** #666666
+- **Títulos**
 
-    **Open Sans Normal (Párrafos)**:
+  - Tipografía: Fedra Sans Std Bold.
+  - Color de tipografía:
 
-  - **Tamaño**:20.8 píxeles.
+    - Opción desplegada: `#000000`.
+    - Opción sin desplegar: `#666666`.
 
-  - **_Color de tipografía:_** #343434
+- **Párrafos**
 
-- **_Descripción general:_** Lista dividida por secciones con un título y un contenido incluido. Por defecto, en todo apartado en donde se disponga de un acordeón, la primera opción quedará desplegada. Asimismo, este componente adquiere el color principal del sitio.
+  - Tipografía: Open Sans Normal.
+  - Color de tipografía: `#343434`.
+  - Tamaño: `20.8 píxeles`.
 
-- **Uso**: Enumerar etapas o procesos a seguir comunes entre sí o, en su defecto, para agrupar contenido con las mismas características.
+#### Descripción general
 
-- **Recomendaciones**: No sobrecargar las secciones. Si una abarca mucho contenido, esta deberá ser dividida.
+Lista dividida por secciones con un título y un contenido incluido. Por defecto, en todo apartado en donde se disponga de un acordeón, la primera opción quedará desplegada. Asimismo, este componente adquiere el color principal del sitio.
 
-**Anuncio Horizontal UCAB:**
+#### Uso
 
-- **_Características gráficas:_**
+Enumerar etapas o procesos a seguir comunes entre sí o, en su defecto, para agrupar contenido con las mismas características.
 
-  - **_Tipografía_**: Fedra Sans Std Bold (títulos)
+#### Recomendaciones
 
-  - **_Color de tipografía:_** #787878
+No sobrecargar las secciones. Si una abarca mucho contenido, esta deberá ser dividida.
 
-- **_Tamaño_:** 27.2 píxeles.
+### Anuncio Horizontal UCAB
 
-  **Open Sans Normal (Párrafos)**:
+#### Características gráficas
 
-  - **_Color de tipografía:_** #343434
+- **Títulos**
 
-  - **Tamaño**:16 píxeles.
+  - Tipografía: Fedra Sans Std Bold.
+  - Color de tipografía: `#787878`.
+  - Tamaño: `27.2 píxeles`.
 
-* **_Descripción general:_** Componente cuya funcionalidad se centra en destacar contenido de forma introductoria y resumida. Permite la redirección hacia otro contenido de interés siempre y cuando se especifique un enlace.
+- **Párrafos**
 
-* **Uso**: Redireccionar hacia otras secciones o contenidos de interés de una manera limpia y organizada.
+  - Tipografía: Open Sans Normal.
+  - Color de tipografía: `#343434`.
+  - Tamaño: `16 píxeles`.
 
-* **Recomendaciones**:
+#### Descripción general
 
-**Anuncio Vertical UCAB:**
+Componente cuya funcionalidad se centra en destacar contenido de forma introductoria y resumida. Permite la redirección hacia otro contenido de interés siempre y cuando se especifique un enlace.
 
-- **_Características gráficas:_**
+#### Uso
 
-  - **_Tipografía_**: Fedra Sans Std Bold (títulos)
+Redireccionar hacia otras secciones o contenidos de interés de una manera limpia y organizada.
 
-  - **_Color de tipografía:_** #787878
+### Anuncio Vertical UCAB
 
-  - **_Tamaño_:** 27.2 píxeles.
+#### Características gráficas
 
-  **Open Sans Normal (Párrafos)**:
+- **Títulos**
 
-  - **_Color de tipografía:_** #343434
+  - Tipografía: Fedra Sans Std Bold.
+  - Color de tipografía: `#787878`.
+  - Tamaño: `27.2 píxeles`.
 
-  - **Tamaño**:16 píxeles.
+- **Párrafos**
 
-* **_Descripción general:_** Componente cuya funcionalidad se centra en destacar contenido de forma introductoria y resumida. Permite la redirección hacia otro contenido de interés siempre y cuando se especifique un enlace.
+  - Tipografía: Open Sans Normal.
+  - Color de tipografía: `#343434`.
+  - Tamaño: `16 píxeles`.
 
-* **Uso**: Redireccionar hacia otras secciones o contenidos de interés de una manera limpia y organizada.
+#### Descripción general
 
-* **Recomendaciones**:
+Componente cuya funcionalidad se centra en destacar contenido de forma introductoria y resumida. Permite la redirección hacia otro contenido de interés siempre y cuando se especifique un enlace.
 
-**Botón Principal UCAB:**
+#### Uso
 
-- **_Características gráficas:_**
+Redireccionar hacia otras secciones o contenidos de interés de una manera limpia y organizada.
 
-  - **_Tipografía_**: Fedra Sans Std Bold (títulos)
+### Botón Principal UCAB
 
-  - **_Color de tipografía:_** #666666
+#### Características gráficas
 
-  - **_Tamaño_:** 16 píxeles.
+- Tipografía: Fedra Sans Std Bold.
+- Color de tipografía: `#666666`.
+- Tamaño: `16 píxeles`.
+- Color del componente apagado: `#666666`.
+- Color del componente encendido (_hover_): adquiere el color secundario dispuesto para el sitio.
 
-  - **_Color del Componente apagado_:** #666666
+#### Descripción general
 
-  - **_Color del Componente encendido (hoover)_:** Adquiere el color secundario dispuesto para el sitio.
+Componente cuya funcionalidad se centra en ofrecer, a través de un enunciado contenido en un botón, la posibilidad de redireccionar a otra instancia o sección.
 
-- **_Descripción general:_** Componente cuya funcionalidad se centra en ofrecer, a través de un enunciado contenido en un botón, la posibilidad de redireccionar a otra instancia o sección.
+#### Uso
 
-- **Uso**: Redireccionar hacia otras secciones o contenidos de interés de una manera limpia y organizada.
+Redireccionar hacia otras secciones o contenidos de interés de una manera limpia y organizada.
 
-- **Recomendaciones**: Evitar colocar textos que excedan dos o tres palabras.
+#### Recomendaciones
 
-**9.2 Componentes de anchura completa**
+Evitar colocar textos que excedan dos o tres palabras.
 
-**Carrusel UCAB:**
+## 9.2. Componentes de anchura completa
 
-- **_Características gráficas:_**
+### Carrusel UCAB
 
-  - **_Tipografía_**: Fedra Sans Std Bold (títulos)
+#### Características gráficas
 
-  - **_Color de tipografía:_** #4D4D4D
+- **Títulos**
 
-  - **_Tamaño_:** 24.8 píxeles.
+  - Tipografía: Fedra Sans Std Bold.
+  - Color de tipografía: `#4d4d4d`.
+  - Tamaño: `24.8 píxeles`.
 
-  **Open Sans Normal (párrafos)**
+- **Párrafos**
 
-  - **_Color de tipografía:_** #343434
+  - Tipografía: Open Sans Normal.
+  - Color de tipografía: `#343434`.
+  - Tamaño: `14 píxeles`.
 
-  - **_Tamaño_:** 14 píxeles.
+#### Descripción general
 
-* **_Descripción general:_** Componente que facilita el despliegue de información de forma resumida y concreta.
+Componente que facilita el despliegue de información de forma resumida y concreta.
 
-* **Uso**: Destacar contenido y facilitar la redirección a otras páginas.
+#### Uso
 
-* **Recomendaciones**: Evitar colocar más de cinco slides en el carrusel. Esto contribuye a que la carga de la página sea fluida.
+Destacar contenido y facilitar la redirección a otras páginas.
 
-**Separador Circular UCAB:**
+#### Recomendaciones
 
-- **_Características gráficas:_**
+Evitar colocar más de cinco _slides_ en el carrusel. Esto contribuye a que la carga de la página sea fluida y rápida.
 
-  - **_Tipografía_**: Roboto Slab (enunciados)
+### Separador Circular UCAB
 
-  **_Nota: Esta tipografía es de uso exclusivo para este componente. Se restringe su uso en otros apartados de los sitios web_**.
+#### Características gráficas
 
-  - **_Color de tipografía:_** #ffffff
+- Tipografía: Roboto Slab.
+  > Esta tipografía es de uso exclusivo para este componente. Se restringe su uso en otros apartados de los sitios web.
+- Color de tipografía: `#ffffff`.
+- Tamaño: `30 píxeles`.
+- Color del componente: adquiere el color principal dispuesto para el sitio.
 
-  - **_Tamaño_:** 30 píxeles.
+#### Descripción general
 
-  - **_Color del componente_:** Adopta el color principal del sitio.
+Barra horizontal de ancho completo con una imagen alusiva al texto dispuesto en la misma.
 
-* **_Descripción general:_** Barra horizontal de ancho completo con una imagen alusiva al texto dispuesto en la misma.
+#### Uso
 
-* **Uso**: Destacar contenido,facilitar la redirección a otras páginas, y separar secciones.
+Destacar contenido,facilitar la redirección a otras páginas, y separar secciones.
 
-* **Recomendaciones**: Evitar plantear textos muy largos ya que pueden salirse del componente.
+#### Recomendaciones
 
-# 10. Manejo de imágenes dentro del sitio web (sitio de primer nivel y sitios de segundo nivel).
+Evitar plantear textos muy largos ya que pueden salirse del componente.
 
-En aras de normar el uso correcto de imágenes dentro de los sitios que comprenden el proyecto web UCAB, se proceden a mencionar las siguientes especificaciones.
+# 10. Manejo de imágenes dentro del sitio web (sitio de primer nivel y sitios de segundo nivel)
 
-- **_10.1 Consideraciones iniciales:_**
+En aras de normar el uso correcto de imágenes dentro de los sitios que comprenden el **Proyecto web UCAB**, se proceden a mencionar las siguientes especificaciones.
 
-  - Se restringe el uno de cualquier tipo de marca de agua sobre las imágenes.
+## 10.1. Consideraciones iniciales
 
-  - Si las imágenes tienen autoría externa a la UCAB, **deberán colocarse sus respectivos créditos al finalizar el contenido de la página donde se estén utilizando dichos recursos.**
+- Se restringe el uno de cualquier tipo de marca de agua sobre las imágenes.
+- Si las imágenes tienen autoría externa a la UCAB, **deberán colocarse sus respectivos créditos al finalizar el contenido de la página donde se estén utilizando dichos recursos.**
+- De ser necesario, los interesados pueden solicitar pautas fotográficas para nutrir sus sitios web. Para elllo, deberán ser pautadas con la Unidad Web para que, desde allí, se gestione dicho proceso. Los interesados serán notificados de la fecha y hora respectivamente cuando este proceso se haya llevado a cabo dentro de la Dirección General de Comunicación, Mercadeo y Promoción.
 
-  - De ser necesario, los interesados pueden solicitar pautas fotográficas para nutrir sus sitios web. Para elllo, deberán ser pautadas con la Unidad Web para que, desde allí, se gestione dicho proceso. Los interesados serán notificados de la fecha y hora respectivamente cuando este proceso se haya llevado a cabo dentro de la Dirección General de Comunicación, Mercadeo y Promoción.
-
-**10.2 Especificaciones para uso de imágenes en los componentes del Tema UCAB**
+## 10.2. Especificaciones para uso de imágenes en los componentes del Tema UCAB
 
 - **Imágenes de cabecera en secciones de anchura completa**
-
-  - **_Tamaño de imagen_:** 1820 x 500 píxeles
-
-- **Componente de tarjeta UCAB**
-
-  - **_Tamaño de imagen_:** 500 X 500 píxeles
-
-* **Componente de Anuncio Vetical UCAB**
-
-  - **_Tamaño de imagen_:** 1158 x 500 íxeles.
-
-* **Componente de Anuncio Vetical UCAB (separación de sedes en los sitios del Sistema de Marcas**
-
-  - **_Tamaño de imagen_:** 800 x 480 píxeles.
-
-* **Componente de Cintillo UCAB\_:**
-
-  - **_Tamaño de imagen_:** 800 X 800 píxeles.
+  - Tamaño de imagen: `1820 x 500 píxeles`.
+- **Componente de Tarjeta UCAB**
+  - Tamaño de imagen: `500 x 500 píxeles`.
+- **Componente de Anuncio Vertical UCAB**
+  - Tamaño de imagen: `1158 x 500 píxeles`.
+- **Componente de Anuncio Vertical UCAB** (separación de sedes en los sitios del **Sistema de Marcas UCAB**)
+  - Tamaño de imagen: `800 x 480 píxeles`.
+- **Componente de Separador Circular UCAB**
+  - Tamaño de imagen: `800 x 800 píxeles`.
