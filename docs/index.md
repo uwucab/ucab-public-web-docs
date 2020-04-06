@@ -16,7 +16,7 @@
 - [6. Logotipo (normativas de uso y comportamiento dentro del Tema UCAB)](#6-logotipo-normativas-de-uso-y-comportamiento-dentro-del-tema-ucab)
   - [6.1. Consideraciones iniciales](#61-consideraciones-iniciales).
   - [6.2. Formatos permitidos del logo UCAB dentro de las páginas web](#62-formatos-permitidos-del-logo-ucab-dentro-de-las-páginas-web)
-  - [6.3. Comportamiento del logotipo simplificado al recorrer la página hacia abajo (scrolldown)](#63-Comportamiento-del-logotipo-simplificado-al-recorrer-la-página-hacia-abajo-scrolldown)
+  - [6.3. Comportamiento del logotipo simplificado al recorrer la página hacia abajo (scrolldown)](#63-comportamiento-del-logotipo-simplificado-al-recorrer-la-página-hacia-abajo-scrolldown)
   - [6.4. Normas para la disposición de logos de acuerdo a la jerarquía de sitios](#64-normas-para-la-disposición-de-logos-de-acuerdo-a-la-jerarquía-de-sitios)
 - [7. Colores UCAB (uso de la Paleta 2020 y Sistema de Marcas)](#7-colores-ucab-uso-de-la-paleta-2020-y-sistema-de-marcas)
   - [7.1. Paleta UCAB (principal)](#71-paleta-ucab-principal)
