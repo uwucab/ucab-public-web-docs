@@ -304,6 +304,8 @@ en los sitios que comprenden esta jerarquía:
 
 > Toda aplicación de logotipo será aprobada, autorizada, y supervisada estrictamente por la **Unidad Web**. Cualquier cambio deberá ser consultado antes de ser ejecutado.
 
+> **Para descargar los logotipos permitidos en formato SVG, haz clic aquí:** https://drive.google.com/drive/folders/1UmZ77EOJ_gLyPs5fb0AfgN8UrPqwRDe1?usp=sharing .
+
 # 7. Colores UCAB (uso de la Paleta 2020 y Sistema de Marcas)
 
 ## Consideraciones iniciales
@@ -429,6 +431,8 @@ Dentro del **Proyecto web UCAB**, se manejan tres estilos de tipografías las cu
 - **Tamaño**: `14.4 píxeles`.
 
 # 9. Componentes UCAB
+
+> Se **restringe** la alteración gráfica a cualquiera de los componentes del Tema UCAB. Deberán hacerse uso únicamente de las configuraciones que están prestablecidas. Ante cualquier duda, sugerencia o solicitud, contacte a los miembros del equipo de la **Unidad Web**.
 
 ## 9.1. Componentes regulares
 
