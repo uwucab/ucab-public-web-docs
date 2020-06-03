@@ -69,9 +69,6 @@ Dentro de los lineamientos que se desarrollarán en este manual, se explican:
     - **Correo Electrónico:** [madrodri@ucab.edu.ve](mailto:madrodri@ucab.edu.ve)
     - **Extensión:** xxxx
 
-  - **Robiana**
-    - **Correo Electrónico:** @ucab.edu.ve
-    - **Extensión:** xxxx
 
 # 2. ¿A quién va dirigido?
 
@@ -85,7 +82,16 @@ El presente material pretende atender las necesidades informativas de los intere
 
 # 3. Protocolo de solicitud sitios web
 
-Por especificar.
+Pasos para la solicitud de desarrollo de sitios web:
+
+1. Comunicación con el equipo de la Unidad Web vía correo electrónico comunicando requerimientos iniciales.
+2. Primera reunión con la Unidad Web para repasar requerimientos y aclarar dudas a los interesados.
+3. Fase de Análisis de requerimientos por parte de la Unidad Web.
+4. Solicitud ante la DTI de creación de ambientes y asistencia en los requerimientos solicitados por los interesados.
+5. Fase de desarrollo.
+6. Fase de revisión.
+7. Pase a Producción.
+
 
 # 4. Jerarquía de sitios web
 
