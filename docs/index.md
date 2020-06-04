@@ -52,23 +52,19 @@ Dentro de los lineamientos que se desarrollarán en este manual, se explican:
 
 ## Dirección General de Comunicación, Mercadeo y Promoción
 
-- **Número telefónico:** xxxx
-- **Extensión:** xxxx
-
 ## Unidad Web
 
 - **Director:** Leda Piñero
 
   - **Correo Electrónico:** [lpinero@ucab.edu.ve](mailto:lpinero@ucab.edu.ve)
-  - **Extensión:** xxxx
-
-- **Analistas Web**
+  
+  
+- **Analista Web**
 
   - **Madeline Rodríguez**
 
     - **Correo Electrónico:** [madrodri@ucab.edu.ve](mailto:madrodri@ucab.edu.ve)
-    - **Extensión:** xxxx
-
+   
 
 # 2. ¿A quién va dirigido?
 
