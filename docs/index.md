@@ -411,6 +411,8 @@ Dentro del **Proyecto web UCAB**, se manejan tres estilos de tipografías las cu
 - **Uso:** menú de facetas.
 - **Tamaño:** `10 píxeles`.
 
+> El uso de esta tipografía siempre será en mayúscula sostenida. **Se restringe el uso de la tipografía Fedra Sans en minúsculas**
+
 ## 8.2. Familia Open Sans
 
 ### 8.2.1. Open Sans Normal
