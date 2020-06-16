@@ -397,7 +397,7 @@ En aras de brindar identidad a las distintas marcas que agrupan el **Sistema de 
 
 Dentro del **Proyecto web UCAB**, se manejan tres estilos de tipografías las cuales serán explicadas a continuación:
 
-> Todas las tipografías se encuentran configuradas en el **Tema UCAB** de tal manera que los desarrolladores puedan ubicarlas con facilidad. Ante cualquier duda, consultar con el equipo de la **Unidad Web**.
+> Todas las tipografías se encuentran configuradas en el **Tema UCAB** de tal manera que los desarrolladores puedan ubicarlas con facilidad.
 > Se prohíbe el uso de colores que no sean negro para cualquiera de las familias tipográficas usadas dentro de la plataforma web UCAB (esta restricción no aplica para la aplicación del _hover_). **El color negro es de uso obligatorio para títulos y párrafos**. Deberán seguirse las indicaciones descritas en el manual. Ante cualquier duda, consultar con el equipo de la **Unidad Web**
 
 ## 8.1. Familia Fedra Sans (tipografía del Tema UCAB)
