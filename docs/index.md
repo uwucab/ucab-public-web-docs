@@ -57,14 +57,12 @@ Dentro de los lineamientos que se desarrollarán en este manual, se explican:
 - **Director:** Leda Piñero
 
   - **Correo Electrónico:** [lpinero@ucab.edu.ve](mailto:lpinero@ucab.edu.ve)
-  
-  
+
 - **Analista Web**
 
   - **Madeline Rodríguez**
 
     - **Correo Electrónico:** [madrodri@ucab.edu.ve](mailto:madrodri@ucab.edu.ve)
-   
 
 # 2. ¿A quién va dirigido?
 
@@ -87,7 +85,6 @@ Pasos para la solicitud de desarrollo de sitios web:
 5. Fase de desarrollo.
 6. Fase de revisión.
 7. Pase a Producción.
-
 
 # 4. Jerarquía de sitios web
 
@@ -326,11 +323,11 @@ Está compuesta por los colores principales de la identidad gráfica de la UCAB,
 
 ### Código hexadecimal
 
-| Color                                                    | Hex       | Nombre color                  |
-| -------------------------------------------------------- | --------- | ----------------------------- |
-| ![#ffc526](https://placehold.it/15/ffc526/000000?text=+) | `#ffc526` | Amarillo color principal UCAB |
-| ![#40b4e5](https://placehold.it/15/40b4e5/000000?text=+) | `#40b4e5` | Azul color principal UCAB     |
-| ![#047732](https://placehold.it/15/047732/000000?text=+) | `#047732` | Verde color principal UCAB    |
+| Color                                                     | Hex       | Nombre color                  |
+| --------------------------------------------------------- | --------- | ----------------------------- |
+| ![#ffc526](https://place-hold.it/15/ffc526/000000?text=+) | `#ffc526` | Amarillo color principal UCAB |
+| ![#40b4e5](https://place-hold.it/15/40b4e5/000000?text=+) | `#40b4e5` | Azul color principal UCAB     |
+| ![#047732](https://place-hold.it/15/047732/000000?text=+) | `#047732` | Verde color principal UCAB    |
 
 ## 7.2. Paleta UCAB 2020 (secundaria)
 
@@ -338,33 +335,33 @@ Comprenden tonalidades que provienen del análisis de color realizado sobre la p
 
 ### Código hexadecimal
 
-| Color                                                    | Hex       | Nombre color      |
-| -------------------------------------------------------- | --------- | ----------------- |
-| ![#f5821f](https://placehold.it/15/f5821f/000000?text=+) | `#f5821f` | ucab-orange       |
-| ![#00a79d](https://placehold.it/15/00a79d/000000?text=+) | `#00a79d` | ucab-teal         |
-| ![#ed2a7b](https://placehold.it/15/ed2a7b/000000?text=+) | `#ed2a7b` | ucab-pink         |
-| ![#8cc63e](https://placehold.it/15/8cc63e/000000?text=+) | `#8cc63e` | ucab-lawn-green   |
-| ![#0071bb](https://placehold.it/15/0071bb/000000?text=+) | `#0071bb` | ucab-dark-blue    |
-| ![#00a66c](https://placehold.it/15/00a66c/000000?text=+) | `#00a66c` | ucab-spring-green |
-| ![#50237f](https://placehold.it/15/50237f/000000?text=+) | `#50237f` | ucab-grape        |
-| ![#c4151c](https://placehold.it/15/c4151c/000000?text=+) | `#c4151c` | ucab-red          |
-| ![#922884](https://placehold.it/15/922884/000000?text=+) | `#922884` | ucab-purple       |
-| ![#fec10d](https://placehold.it/15/fec10d/000000?text=+) | `#fec10d` | ucab-light-yellow |
+| Color                                                     | Hex       | Nombre color      |
+| --------------------------------------------------------- | --------- | ----------------- |
+| ![#f5821f](https://place-hold.it/15/f5821f/000000?text=+) | `#f5821f` | ucab-orange       |
+| ![#00a79d](https://place-hold.it/15/00a79d/000000?text=+) | `#00a79d` | ucab-teal         |
+| ![#ed2a7b](https://place-hold.it/15/ed2a7b/000000?text=+) | `#ed2a7b` | ucab-pink         |
+| ![#8cc63e](https://place-hold.it/15/8cc63e/000000?text=+) | `#8cc63e` | ucab-lawn-green   |
+| ![#0071bb](https://place-hold.it/15/0071bb/000000?text=+) | `#0071bb` | ucab-dark-blue    |
+| ![#00a66c](https://place-hold.it/15/00a66c/000000?text=+) | `#00a66c` | ucab-spring-green |
+| ![#50237f](https://place-hold.it/15/50237f/000000?text=+) | `#50237f` | ucab-grape        |
+| ![#c4151c](https://place-hold.it/15/c4151c/000000?text=+) | `#c4151c` | ucab-red          |
+| ![#922884](https://place-hold.it/15/922884/000000?text=+) | `#922884` | ucab-purple       |
+| ![#fec10d](https://place-hold.it/15/fec10d/000000?text=+) | `#fec10d` | ucab-light-yellow |
 
 ## 7.3. Paleta escala de grises UCAB
 
 ### Código hexadecimal
 
-| Color                                                    | Hex       | Nombre color      |
-| -------------------------------------------------------- | --------- | ----------------- |
-| ![#ffffff](https://placehold.it/15/ffffff/000000?text=+) | `#ffffff` | white             |
-| ![#eeeeee](https://placehold.it/15/eeeeee/000000?text=+) | `#eeeeee` | ucab-white-gray   |
-| ![#cdcdcd](https://placehold.it/15/cdcdcd/000000?text=+) | `#cdcdcd` | ucab-lighter-gray |
-| ![#b3b3b3](https://placehold.it/15/b3b3b3/000000?text=+) | `#b3b3b3` | ucab-light-gray   |
-| ![#787878](https://placehold.it/15/787878/000000?text=+) | `#787878` | ucab-gray         |
-| ![#4d4d4d](https://placehold.it/15/4d4d4d/000000?text=+) | `#4d4d4d` | ucab-dark-gray    |
-| ![#343434](https://placehold.it/15/343434/000000?text=+) | `#343434` | ucab-darken-gray  |
-| ![#000000](https://placehold.it/15/000000/000000?text=+) | `#000000` | black             |
+| Color                                                     | Hex       | Nombre color      |
+| --------------------------------------------------------- | --------- | ----------------- |
+| ![#ffffff](https://place-hold.it/15/ffffff/000000?text=+) | `#ffffff` | white             |
+| ![#eeeeee](https://place-hold.it/15/eeeeee/000000?text=+) | `#eeeeee` | ucab-white-gray   |
+| ![#cdcdcd](https://place-hold.it/15/cdcdcd/000000?text=+) | `#cdcdcd` | ucab-lighter-gray |
+| ![#b3b3b3](https://place-hold.it/15/b3b3b3/000000?text=+) | `#b3b3b3` | ucab-light-gray   |
+| ![#787878](https://place-hold.it/15/787878/000000?text=+) | `#787878` | ucab-gray         |
+| ![#4d4d4d](https://place-hold.it/15/4d4d4d/000000?text=+) | `#4d4d4d` | ucab-dark-gray    |
+| ![#343434](https://place-hold.it/15/343434/000000?text=+) | `#343434` | ucab-darken-gray  |
+| ![#000000](https://place-hold.it/15/000000/000000?text=+) | `#000000` | black             |
 
 ## 7.4. Paleta Sistema de Marcas UCAB
 
@@ -374,24 +371,24 @@ En aras de brindar identidad a las distintas marcas que agrupan el **Sistema de 
 
 ### Código hexadecimal
 
-| Color                                                    | Hex       | Marca                                                   |
-| -------------------------------------------------------- | --------- | ------------------------------------------------------- |
-| ![#175a2d](https://placehold.it/15/175a2d/000000?text=+) | `#175a2d` | Postgrado UCAB                                          |
-| ![#42b3e3](https://placehold.it/15/42b3e3/000000?text=+) | `#42b3e3` | CIAP UCAB                                               |
-| ![#f58220](https://placehold.it/15/f58220/000000?text=+) | `#f58220` | Educación UCAB                                          |
-| ![#0a72ba](https://placehold.it/15/0a72ba/000000?text=+) | `#0a72ba` | Ingeniería UCAB                                         |
-| ![#c42127](https://placehold.it/15/c42127/000000?text=+) | `#c42127` | Derecho UCAB                                            |
-| ![#5b2751](https://placehold.it/15/5b2751/000000?text=+) | `#5b2751` | RRII UCAB                                               |
-| ![#3dabc0](https://placehold.it/15/3dabc0/000000?text=+) | `#3dabc0` | Sociología UCAB                                         |
-| ![#00568E](https://placehold.it/15/00568E/000000?text=+) | `#00568E` | Comunicación UCAB                                       |
-| ![#0fa86d](https://placehold.it/15/0fa86d/000000?text=+) | `#0fa86d` | Filosofía UCAB                                          |
-| ![#c5832a](https://placehold.it/15/c5832a/000000?text=+) | `#c5832a` | Letras UCAB                                             |
-| ![#58338e](https://placehold.it/15/58338e/000000?text=+) | `#58338e` | Psicología UCAB                                         |
-| ![#1891b2](https://placehold.it/15/1891b2/000000?text=+) | `#1891b2` | Teología UCAB                                           |
-| ![#0d6e75](https://placehold.it/15/0d6e75/000000?text=+) | `#0d6e75` | Administración UCAB                                     |
-| ![#95265b](https://placehold.it/15/95265b/000000?text=+) | `#95265b` | Contaduría UCAB                                         |
-| ![#6d111c](https://placehold.it/15/6d111c/000000?text=+) | `#6d111c` | Economía UCAB                                           |
-| ![#17375e](https://placehold.it/15/17375e/000000?text=+) | `#17375e` | Negocios UCAB (marca madre Administración y Contaduría) |
+| Color                                                     | Hex       | Marca                                                   |
+| --------------------------------------------------------- | --------- | ------------------------------------------------------- |
+| ![#175a2d](https://place-hold.it/15/175a2d/000000?text=+) | `#175a2d` | Postgrado UCAB                                          |
+| ![#42b3e3](https://place-hold.it/15/42b3e3/000000?text=+) | `#42b3e3` | CIAP UCAB                                               |
+| ![#f58220](https://place-hold.it/15/f58220/000000?text=+) | `#f58220` | Educación UCAB                                          |
+| ![#0a72ba](https://place-hold.it/15/0a72ba/000000?text=+) | `#0a72ba` | Ingeniería UCAB                                         |
+| ![#c42127](https://place-hold.it/15/c42127/000000?text=+) | `#c42127` | Derecho UCAB                                            |
+| ![#5b2751](https://place-hold.it/15/5b2751/000000?text=+) | `#5b2751` | RRII UCAB                                               |
+| ![#3dabc0](https://place-hold.it/15/3dabc0/000000?text=+) | `#3dabc0` | Sociología UCAB                                         |
+| ![#00568E](https://place-hold.it/15/00568E/000000?text=+) | `#00568E` | Comunicación UCAB                                       |
+| ![#0fa86d](https://place-hold.it/15/0fa86d/000000?text=+) | `#0fa86d` | Filosofía UCAB                                          |
+| ![#c5832a](https://place-hold.it/15/c5832a/000000?text=+) | `#c5832a` | Letras UCAB                                             |
+| ![#58338e](https://place-hold.it/15/58338e/000000?text=+) | `#58338e` | Psicología UCAB                                         |
+| ![#1891b2](https://place-hold.it/15/1891b2/000000?text=+) | `#1891b2` | Teología UCAB                                           |
+| ![#0d6e75](https://place-hold.it/15/0d6e75/000000?text=+) | `#0d6e75` | Administración UCAB                                     |
+| ![#95265b](https://place-hold.it/15/95265b/000000?text=+) | `#95265b` | Contaduría UCAB                                         |
+| ![#6d111c](https://place-hold.it/15/6d111c/000000?text=+) | `#6d111c` | Economía UCAB                                           |
+| ![#17375e](https://place-hold.it/15/17375e/000000?text=+) | `#17375e` | Negocios UCAB (marca madre Administración y Contaduría) |
 
 # 8. Tipografías (uso normativo)
 
